@@ -1,262 +1,469 @@
 # xxoo
 A fast tunnel proxy that helps you __bypass__ Great Firewalls
+<center>
+![](Instagram/BT.PNG)
+![](Instagram/logo.png)
+![](Instagram/bt-wiki-main.png)
+#**++*Across the Great Firewall, you can reach every corner in the world.*++**
+#==AT&T==ACK   ON    Ti-Tan
+#「那一天，人類終於回想起了，曾經一度支配他們的恐懼，還有被囚禁於鳥籠中的屈辱」
+![](Instagram/TITAN-1.jpg)
+![](Instagram/1283568_151438_4211.png)
+#*~~Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey~~.*
+#*~~I hope one day I’ll live in a country where I have freedom to write any code I like without fearing.~~*
+#*~~I believe you guys will make great stuff with Network Extensions.~~*
+#*~~Cheers!~~*
+#翻墙越岭玩 Pokemon Go
+![](Instagram/IMG_3697.PNG)
+![](Instagram/IMG_3804.JPG)
+#==Keyword==:
+##◇Read The Fucking Manual(Wiki)
+##◇<< Back | Track
+##◇==Google==/wiki/Feeds/Blogger/Wordpress
+###https://program-think.blogspot.com/
+###https://github.com/programthink
+##◇==Github==/Markdown
+##◇==XXOO==
+##◇==ShadowSocks==/ShadowSocksR
+![](Instagram/ishadowsocks.jpg)
+##◇Linux/==Ubuntu==/Deepin
+![](Instagram/IMG_3707.JPG)
+![](Instagram/Ubuntu.png)
+![](Instagram/lantern.png)
+![](Instagram/2017-02-26 18-31-46.png)
+![](Instagram/2017-02-26 18-05-45.png)
+![](Instagram/2017-02-24 21-54-04.png)
+![](Instagram/screenlets.png)
+![](Instagram/Ubuntu-GNOME-14-04-LTS-.jpg)
+![](Instagram/image-laptop.jpg)
+##◇Kali Linux
+![](Instagram/kali.png)
+![](Instagram/matrix.png)
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>ooxx.html</title>
-  <meta name="generator" content="Haroopad 0.13.1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+* * *
 
-  <style>div.oembedall-githubrepos{border:1px solid #DDD;border-radius:4px;list-style-type:none;margin:0 0 10px;padding:8px 10px 0;font:13.34px/1.4 helvetica,arial,freesans,clean,sans-serif;width:452px;background-color:#fff}div.oembedall-githubrepos .oembedall-body{background:-moz-linear-gradient(center top,#FAFAFA,#EFEFEF);background:-webkit-gradient(linear,left top,left bottom,from(#FAFAFA),to(#EFEFEF));border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-top:1px solid #EEE;margin-left:-10px;margin-top:8px;padding:5px 10px;width:100%}div.oembedall-githubrepos h3{font-size:14px;margin:0;padding-left:18px;white-space:nowrap}div.oembedall-githubrepos p.oembedall-description{color:#444;font-size:12px;margin:0 0 3px}div.oembedall-githubrepos p.oembedall-updated-at{color:#888;font-size:11px;margin:0}div.oembedall-githubrepos ul.oembedall-repo-stats{border:none;float:right;font-size:11px;font-weight:700;padding-left:15px;position:relative;z-index:5;margin:0}div.oembedall-githubrepos ul.oembedall-repo-stats li{border:none;color:#666;display:inline-block;list-style-type:none;margin:0!important}div.oembedall-githubrepos ul.oembedall-repo-stats li a{background-color:transparent;border:none;color:#666!important;background-position:5px -2px;background-repeat:no-repeat;border-left:1px solid #DDD;display:inline-block;height:21px;line-height:21px;padding:0 5px 0 23px}div.oembedall-githubrepos ul.oembedall-repo-stats li:first-child a{border-left:medium none;margin-right:-3px}div.oembedall-githubrepos ul.oembedall-repo-stats li a:hover{background:5px -27px no-repeat #4183C4;color:#FFF!important;text-decoration:none}div.oembedall-githubrepos ul.oembedall-repo-stats li:first-child a:hover{border-bottom-left-radius:3px;border-top-left-radius:3px}ul.oembedall-repo-stats li:last-child a:hover{border-bottom-right-radius:3px;border-top-right-radius:3px}span.oembedall-closehide{background-color:#aaa;border-radius:2px;cursor:pointer;margin-right:3px}div.oembedall-container{margin-top:5px;text-align:left}.oembedall-ljuser{font-weight:700}.oembedall-ljuser img{vertical-align:bottom;border:0;padding-right:1px}.oembedall-stoqembed{border-bottom:1px dotted #999;float:left;overflow:hidden;width:730px;line-height:1;background:#FFF;color:#000;font-family:Arial,Liberation Sans,DejaVu Sans,sans-serif;font-size:80%;text-align:left;margin:0;padding:0}.oembedall-stoqembed a{color:#07C;text-decoration:none;margin:0;padding:0}.oembedall-stoqembed a:hover{text-decoration:underline}.oembedall-stoqembed a:visited{color:#4A6B82}.oembedall-stoqembed h3{font-family:Trebuchet MS,Liberation Sans,DejaVu Sans,sans-serif;font-size:130%;font-weight:700;margin:0;padding:0}.oembedall-stoqembed .oembedall-reputation-score{color:#444;font-size:120%;font-weight:700;margin-right:2px}.oembedall-stoqembed .oembedall-user-info{height:35px;width:185px}.oembedall-stoqembed .oembedall-user-info .oembedall-user-gravatar32{float:left;height:32px;width:32px}.oembedall-stoqembed .oembedall-user-info .oembedall-user-details{float:left;margin-left:5px;overflow:hidden;white-space:nowrap;width:145px}.oembedall-stoqembed .oembedall-question-hyperlink{font-weight:700}.oembedall-stoqembed .oembedall-stats{background:#EEE;margin:0 0 0 7px;padding:4px 7px 6px;width:58px}.oembedall-stoqembed .oembedall-statscontainer{float:left;margin-right:8px;width:86px}.oembedall-stoqembed .oembedall-votes{color:#555;padding:0 0 7px;text-align:center}.oembedall-stoqembed .oembedall-vote-count-post{font-size:240%;color:#808185;display:block;font-weight:700}.oembedall-stoqembed .oembedall-views{color:#999;padding-top:4px;text-align:center}.oembedall-stoqembed .oembedall-status{margin-top:-3px;padding:4px 0;text-align:center;background:#75845C;color:#FFF}.oembedall-stoqembed .oembedall-status strong{color:#FFF;display:block;font-size:140%}.oembedall-stoqembed .oembedall-summary{float:left;width:635px}.oembedall-stoqembed .oembedall-excerpt{line-height:1.2;margin:0;padding:0 0 5px}.oembedall-stoqembed .oembedall-tags{float:left;line-height:18px}.oembedall-stoqembed .oembedall-tags a:hover{text-decoration:none}.oembedall-stoqembed .oembedall-post-tag{background-color:#E0EAF1;border-bottom:1px solid #3E6D8E;border-right:1px solid #7F9FB6;color:#3E6D8E;font-size:90%;line-height:2.4;margin:2px 2px 2px 0;padding:3px 4px;text-decoration:none;white-space:nowrap}.oembedall-stoqembed .oembedall-post-tag:hover{background-color:#3E6D8E;border-bottom:1px solid #37607D;border-right:1px solid #37607D;color:#E0EAF1}.oembedall-stoqembed .oembedall-fr{float:right}.oembedall-stoqembed .oembedall-statsarrow{background-image:url(http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=3);background-repeat:no-repeat;overflow:hidden;background-position:0 -435px;float:right;height:13px;margin-top:12px;width:7px}.oembedall-facebook1{border:1px solid #1A3C6C;padding:0;font:13.34px/1.4 verdana;width:500px}.oembedall-facebook2{background-color:#627add}.oembedall-facebook2 a{color:#e8e8e8;text-decoration:none}.oembedall-facebookBody{background-color:#fff;vertical-align:top;padding:5px}.oembedall-facebookBody .contents{display:inline-block;width:100%}.oembedall-facebookBody div img{float:left;margin-right:5px}div.oembedall-lanyard{-webkit-box-shadow:none;-webkit-transition-delay:0s;-webkit-transition-duration:.4000000059604645s;-webkit-transition-property:width;-webkit-transition-timing-function:cubic-bezier(0.42,0,.58,1);background-attachment:scroll;background-clip:border-box;background-color:transparent;background-image:none;background-origin:padding-box;border-width:0;box-shadow:none;color:#112644;display:block;float:left;font-family:'Trebuchet MS',Trebuchet,sans-serif;font-size:16px;height:253px;line-height:19px;margin:0;max-width:none;min-height:0;outline:#112644 0;overflow-x:visible;overflow-y:visible;padding:0;position:relative;text-align:left;vertical-align:baseline;width:804px}div.oembedall-lanyard .tagline{font-size:1.5em}div.oembedall-lanyard .wrapper{overflow:hidden;clear:both}div.oembedall-lanyard .split{float:left;display:inline}div.oembedall-lanyard .prominent-place .flag:active,div.oembedall-lanyard .prominent-place .flag:focus,div.oembedall-lanyard .prominent-place .flag:hover,div.oembedall-lanyard .prominent-place .flag:link,div.oembedall-lanyard .prominent-place .flag:visited{float:left;display:block;width:48px;height:48px;position:relative;top:-5px;margin-right:10px}div.oembedall-lanyard .place-context{font-size:.889em}div.oembedall-lanyard .prominent-place .sub-place{display:block}div.oembedall-lanyard .prominent-place{font-size:1.125em;line-height:1.1em;font-weight:400}div.oembedall-lanyard .main-date{color:#8CB4E0;font-weight:700;line-height:1.1}div.oembedall-lanyard .first{width:48.57%;margin:0 0 0 2.857%}.mermaid .label{color:#333}.node circle,.node polygon,.node rect{fill:#cde498;stroke:#13540c;stroke-width:1px}.edgePath .path{stroke:green;stroke-width:1.5px}.cluster rect{fill:#cdffb2;rx:40;stroke:#6eaa49;stroke-width:1px}.cluster text{fill:#333}.actor{stroke:#13540c;fill:#cde498}text.actor{fill:#000;stroke:none}.actor-line{stroke:grey}.messageLine0{stroke-width:1.5;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#333}.messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#arrowhead{fill:#333}#crosshead path{fill:#333!important;stroke:#333!important}.messageText{fill:#333;stroke:none}.labelBox{stroke:#326932;fill:#cde498}.labelText,.loopText{fill:#000;stroke:none}.loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#326932}.note{stroke:#6eaa49;fill:#fff5ad}.noteText{fill:#000;stroke:none;font-family:'trebuchet ms',verdana,arial;font-size:14px}.section{stroke:none;opacity:.2}.section0,.section2{fill:#6eaa49}.section1,.section3{fill:#fff;opacity:.2}.sectionTitle0,.sectionTitle1,.sectionTitle2,.sectionTitle3{fill:#333}.sectionTitle{text-anchor:start;font-size:11px;text-height:14px}.grid .tick{stroke:lightgrey;opacity:.3;shape-rendering:crispEdges}.grid path{stroke-width:0}.today{fill:none;stroke:red;stroke-width:2px}.task{stroke-width:2}.taskText{text-anchor:middle;font-size:11px}.taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}.taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}.taskText0,.taskText1,.taskText2,.taskText3{fill:#fff}.task0,.task1,.task2,.task3{fill:#487e3a;stroke:#13540c}.taskTextOutside0,.taskTextOutside1,.taskTextOutside2,.taskTextOutside3{fill:#000}.active0,.active1,.active2,.active3{fill:#cde498;stroke:#13540c}.activeText0,.activeText1,.activeText2,.activeText3{fill:#000!important}.done0,.done1,.done2,.done3{stroke:grey;fill:lightgrey;stroke-width:2}.doneText0,.doneText1,.doneText2,.doneText3{fill:#000!important}.crit0,.crit1,.crit2,.crit3{stroke:#f88;fill:red;stroke-width:2}.activeCrit0,.activeCrit1,.activeCrit2,.activeCrit3{stroke:#f88;fill:#cde498;stroke-width:2}.doneCrit0,.doneCrit1,.doneCrit2,.doneCrit3{stroke:#f88;fill:lightgrey;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}.activeCritText0,.activeCritText1,.activeCritText2,.activeCritText3,.doneCritText0,.doneCritText1,.doneCritText2,.doneCritText3{fill:#000!important}.titleText{text-anchor:middle;font-size:18px;fill:#000}text{font-family:'trebuchet ms',verdana,arial;font-size:14px}html{height:100%}body{margin:0!important;padding:5px 20px 26px!important;background-color:#fff;font-family:"Lucida Grande","Segoe UI","Apple SD Gothic Neo","Malgun Gothic","Lucida Sans Unicode",Helvetica,Arial,sans-serif;font-size:.9em;overflow-x:hidden;overflow-y:auto}br,h1,h2,h3,h4,h5,h6{clear:both}hr.page{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x;border:0;height:3px;padding:0}hr.underscore{border-top-style:dashed!important}body >:first-child{margin-top:0!important}img.plugin{box-shadow:0 1px 3px rgba(0,0,0,.1);border-radius:3px}iframe{border:0}figure{-webkit-margin-before:0;-webkit-margin-after:0;-webkit-margin-start:0;-webkit-margin-end:0}kbd{border:1px solid #aaa;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-moz-box-shadow:1px 2px 2px #ddd;-webkit-box-shadow:1px 2px 2px #ddd;box-shadow:1px 2px 2px #ddd;background-color:#f9f9f9;background-image:-moz-linear-gradient(top,#eee,#f9f9f9,#eee);background-image:-o-linear-gradient(top,#eee,#f9f9f9,#eee);background-image:-webkit-linear-gradient(top,#eee,#f9f9f9,#eee);background-image:linear-gradient(top,#eee,#f9f9f9,#eee);padding:1px 3px;font-family:inherit;font-size:.85em}.oembeded .oembed_photo{display:inline-block}img[data-echo]{margin:25px 0;width:100px;height:100px;background:url(../img/ajax.gif) center center no-repeat #fff}.spinner{display:inline-block;width:10px;height:10px;margin-bottom:-.1em;border:2px solid rgba(0,0,0,.5);border-top-color:transparent;border-radius:100%;-webkit-animation:spin 1s infinite linear;animation:spin 1s infinite linear}.spinner:after{content:'';display:block;width:0;height:0;position:absolute;top:-6px;left:0;border:4px solid transparent;border-bottom-color:rgba(0,0,0,.5);-webkit-transform:rotate(45deg);transform:rotate(45deg)}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}@keyframes spin{to{transform:rotate(360deg)}}p.toc{margin:0!important}p.toc ul{padding-left:10px}p.toc>ul{padding:10px;margin:0 10px;display:inline-block;border:1px solid #ededed;border-radius:5px}p.toc li,p.toc ul{list-style-type:none}p.toc li{width:100%;padding:0;overflow:hidden}p.toc li a::after{content:"."}p.toc li a:before{content:"• "}p.toc h5{text-transform:uppercase}p.toc .title{float:left;padding-right:3px}p.toc .number{margin:0;float:right;padding-left:3px;background:#fff;display:none}input.task-list-item{margin-left:-1.62em}.markdown{font-family:"Hiragino Sans GB","Microsoft YaHei",STHeiti,SimSun,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",'Segoe UI',AppleSDGothicNeo-Medium,'Malgun Gothic',Verdana,Tahoma,sans-serif;padding:20px}.markdown a{text-decoration:none;vertical-align:baseline}.markdown a:hover{text-decoration:underline}.markdown h1{font-size:2.2em;font-weight:700;margin:1.5em 0 1em}.markdown h2{font-size:1.8em;font-weight:700;margin:1.275em 0 .85em}.markdown h3{font-size:1.6em;font-weight:700;margin:1.125em 0 .75em}.markdown h4{font-size:1.4em;font-weight:700;margin:.99em 0 .66em}.markdown h5{font-size:1.2em;font-weight:700;margin:.855em 0 .57em}.markdown h6{font-size:1em;font-weight:700;margin:.75em 0 .5em}.markdown h1+p,.markdown h1:first-child,.markdown h2+p,.markdown h2:first-child,.markdown h3+p,.markdown h3:first-child,.markdown h4+p,.markdown h4:first-child,.markdown h5+p,.markdown h5:first-child,.markdown h6+p,.markdown h6:first-child{margin-top:0}.markdown hr{border:1px solid #ccc}.markdown p{margin:1em 0;word-wrap:break-word}.markdown ol{list-style-type:decimal}.markdown li{display:list-item;line-height:1.4em}.markdown blockquote{margin:1em 20px}.markdown blockquote>:first-child{margin-top:0}.markdown blockquote>:last-child{margin-bottom:0}.markdown blockquote cite:before{content:'\2014 \00A0'}.markdown .code{border-radius:3px;word-wrap:break-word}.markdown pre{border-radius:3px;word-wrap:break-word;border:1px solid #ccc;overflow:auto;padding:.5em}.markdown pre code{border:0;display:block}.markdown pre>code{font-family:Consolas,Inconsolata,Courier,monospace;font-weight:700;white-space:pre;margin:0}.markdown code{border-radius:3px;word-wrap:break-word;border:1px solid #ccc;padding:0 5px;margin:0 2px}.markdown img{max-width:100%}.markdown mark{color:#000;background-color:#fcf8e3}.markdown table{padding:0;border-collapse:collapse;border-spacing:0;margin-bottom:16px}.markdown table tr td,.markdown table tr th{border:1px solid #ccc;margin:0;padding:6px 13px}.markdown table tr th{font-weight:700}.markdown table tr th>:first-child{margin-top:0}.markdown table tr th>:last-child{margin-bottom:0}.markdown table tr td>:first-child{margin-top:0}.markdown table tr td>:last-child{margin-bottom:0}.solarized-dark{padding:20px;color:#839496;font-size:15px;background:#002b36;-webkit-font-smoothing:antialiased}.solarized-dark a{color:#1e6ea7}.solarized-dark a:hover{color:#268bd2}.solarized-dark h1,.solarized-dark h2,.solarized-dark h3,.solarized-dark h4,.solarized-dark h5{color:#b58900}.solarized-dark h2{border-bottom:1px solid #003f50;line-height:1.7em}.solarized-dark h6{color:#694f00}.solarized-dark hr{border:1px solid #001f27}.solarized-dark code,.solarized-dark pre{border:1px solid #00475a}.solarized-dark pre>code{font-size:.9em}.solarized-dark blockquote{border-left:4px solid #005469;padding:0 15px;font-style:italic}.solarized-dark table{background-color:#003441}.solarized-dark table tr td,.solarized-dark table tr th{border:1px solid #005065}.solarized-dark table tr:nth-child(2n){background-color:#003b4b}.hljs{display:block;overflow-x:auto;padding:.5em;background:#fdf6e3;color:#657b83;-webkit-text-size-adjust:none}.diff .hljs-header,.hljs-comment,.hljs-doctype,.hljs-javadoc,.hljs-pi,.lisp .hljs-string{color:#93a1a1}.css .hljs-tag,.hljs-addition,.hljs-keyword,.hljs-request,.hljs-status,.hljs-winutils,.method,.nginx .hljs-title{color:#859900}.hljs-command,.hljs-dartdoc,.hljs-hexcolor,.hljs-link_url,.hljs-number,.hljs-phpdoc,.hljs-regexp,.hljs-rules .hljs-value,.hljs-string,.hljs-tag .hljs-value,.tex .hljs-formula{color:#2aa198}.css .hljs-function,.hljs-built_in,.hljs-chunk,.hljs-decorator,.hljs-id,.hljs-identifier,.hljs-localvars,.hljs-title,.vhdl .hljs-literal{color:#268bd2}.hljs-attribute,.hljs-class .hljs-title,.hljs-constant,.hljs-link_reference,.hljs-parent,.hljs-type,.hljs-variable,.lisp .hljs-body,.smalltalk .hljs-number{color:#b58900}.css .hljs-pseudo,.diff .hljs-change,.hljs-attr_selector,.hljs-cdata,.hljs-header,.hljs-pragma,.hljs-preprocessor,.hljs-preprocessor .hljs-keyword,.hljs-shebang,.hljs-special,.hljs-subst,.hljs-symbol,.hljs-symbol .hljs-string{color:#cb4b16}.hljs-deletion,.hljs-important{color:#dc322f}.hljs-link_label{color:#6c71c4}.tex .hljs-formula{background:#eee8d5}.MathJax_Hover_Frame{border-radius:.25em;-webkit-border-radius:.25em;-moz-border-radius:.25em;-khtml-border-radius:.25em;box-shadow:0 0 15px #83A;-webkit-box-shadow:0 0 15px #83A;-moz-box-shadow:0 0 15px #83A;-khtml-box-shadow:0 0 15px #83A;border:1px solid #A6D!important;display:inline-block;position:absolute}.MathJax_Hover_Arrow{position:absolute;width:15px;height:11px;cursor:pointer}#MathJax_About{position:fixed;left:50%;width:auto;text-align:center;border:3px outset;padding:1em 2em;background-color:#DDD;color:#000;cursor:default;font-family:message-box;font-size:120%;font-style:normal;text-indent:0;text-transform:none;line-height:normal;letter-spacing:normal;word-spacing:normal;word-wrap:normal;white-space:nowrap;float:none;z-index:201;border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;-khtml-border-radius:15px;box-shadow:0 10px 20px gray;-webkit-box-shadow:0 10px 20px gray;-moz-box-shadow:0 10px 20px gray;-khtml-box-shadow:0 10px 20px gray;filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}.MathJax_Menu{position:absolute;background-color:#fff;color:#000;width:auto;padding:5px 0;border:1px solid #CCC;margin:0;cursor:default;font:menu;text-align:left;text-indent:0;text-transform:none;line-height:normal;letter-spacing:normal;word-spacing:normal;word-wrap:normal;white-space:nowrap;float:none;z-index:201;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;-khtml-border-radius:5px;box-shadow:0 10px 20px gray;-webkit-box-shadow:0 10px 20px gray;-moz-box-shadow:0 10px 20px gray;-khtml-box-shadow:0 10px 20px gray;filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}.MathJax_MenuItem{padding:1px 2em;background:0 0}.MathJax_MenuArrow{position:absolute;right:.5em;color:#666}.MathJax_MenuActive .MathJax_MenuArrow{color:#fff}.MathJax_MenuArrow.RTL{left:.5em;right:auto}.MathJax_MenuCheck{position:absolute;left:.7em}.MathJax_MenuCheck.RTL{right:.7em;left:auto}.MathJax_MenuRadioCheck{position:absolute;left:.7em}.MathJax_MenuRadioCheck.RTL{right:.7em;left:auto}.MathJax_MenuLabel{padding:1px 2em 3px 1.33em;font-style:italic}.MathJax_MenuRule{border-top:1px solid #DDD;margin:4px 3px}.MathJax_MenuDisabled{color:GrayText}.MathJax_MenuActive{background-color:#606872;color:#fff}.MathJax_Menu_Close{position:absolute;width:31px;height:31px;top:-15px;left:-15px}#MathJax_Zoom{position:absolute;background-color:#F0F0F0;overflow:auto;display:block;z-index:301;padding:.5em;border:1px solid #000;margin:0;font-weight:400;font-style:normal;text-align:left;text-indent:0;text-transform:none;line-height:normal;letter-spacing:normal;word-spacing:normal;word-wrap:normal;white-space:nowrap;float:none;box-shadow:5px 5px 15px #AAA;-webkit-box-shadow:5px 5px 15px #AAA;-moz-box-shadow:5px 5px 15px #AAA;-khtml-box-shadow:5px 5px 15px #AAA;filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}#MathJax_ZoomOverlay{position:absolute;left:0;top:0;z-index:300;display:inline-block;width:100%;height:100%;border:0;padding:0;margin:0;background-color:#fff;opacity:0;filter:alpha(opacity=0)}#MathJax_ZoomFrame{position:relative;display:inline-block;height:0;width:0}#MathJax_ZoomEventTrap{position:absolute;left:0;top:0;z-index:302;display:inline-block;border:0;padding:0;margin:0;background-color:#fff;opacity:0;filter:alpha(opacity=0)}.MathJax_Preview{color:#888}#MathJax_Message{position:fixed;left:1px;bottom:2px;background-color:#E6E6E6;border:1px solid #959595;margin:0;padding:2px 8px;z-index:102;color:#000;font-size:80%;width:auto;white-space:nowrap}#MathJax_MSIE_Frame{position:absolute;top:0;left:0;width:0;z-index:101;border:0;margin:0;padding:0}.MathJax_Error{color:#C00;font-style:italic}footer{position:fixed;font-size:.8em;text-align:right;bottom:0;margin-left:-25px;height:20px;width:100%}</style>
-</head>
-<body class="markdown solarized-dark">
-<p></p><center><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/BT.PNG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/logo.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/bt-wiki-main.png" alt=""><p></p>
-<h1 id="**++*across-the-great-firewall,-you-can-reach-every-corner-in-the-world.*++**"><a name="**++*across-the-great-firewall,-you-can-reach-every-corner-in-the-world.*++**" href="#**++*across-the-great-firewall,-you-can-reach-every-corner-in-the-world.*++**"></a><strong><ins><em>Across the Great Firewall, you can reach every corner in the world.</em></ins></strong></h1>
-<h1 id="==at&amp;t==ack-on-ti-tan"><a name="==at&amp;t==ack-on-ti-tan" href="#==at&amp;t==ack-on-ti-tan"></a><mark>AT&amp;T</mark>ACK   ON    Ti-Tan</h1>
-<h1 id="「那一天，人類終於回想起了，曾經一度支配他們的恐懼，還有被囚禁於鳥籠中的屈辱」"><a name="「那一天，人類終於回想起了，曾經一度支配他們的恐懼，還有被囚禁於鳥籠中的屈辱」" href="#「那一天，人類終於回想起了，曾經一度支配他們的恐懼，還有被囚禁於鳥籠中的屈辱」"></a>「那一天，人類終於回想起了，曾經一度支配他們的恐懼，還有被囚禁於鳥籠中的屈辱」</h1>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/TITAN-1.jpg" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/1283568_151438_4211.png" alt=""></p>
-<h1 id="*~~two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey~~.*"><a name="*~~two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey~~.*" href="#*~~two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey~~.*"></a><em><del>Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey</del>.</em></h1>
-<h1 id="*~~i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing.~~*"><a name="*~~i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing.~~*" href="#*~~i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing.~~*"></a><em><del>I hope one day I’ll live in a country where I have freedom to write any code I like without fearing.</del></em></h1>
-<h1 id="*~~i-believe-you-guys-will-make-great-stuff-with-network-extensions.~~*"><a name="*~~i-believe-you-guys-will-make-great-stuff-with-network-extensions.~~*" href="#*~~i-believe-you-guys-will-make-great-stuff-with-network-extensions.~~*"></a><em><del>I believe you guys will make great stuff with Network Extensions.</del></em></h1>
-<h1 id="*~~cheers!~~*"><a name="*~~cheers!~~*" href="#*~~cheers!~~*"></a><em><del>Cheers!</del></em></h1>
-<h1 id="翻墙越岭玩-pokemon-go"><a name="翻墙越岭玩-pokemon-go" href="#翻墙越岭玩-pokemon-go"></a>翻墙越岭玩 Pokemon Go</h1>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3697.PNG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3804.JPG" alt=""></p>
-<h1 id="==keyword==:"><a name="==keyword==:" href="#==keyword==:"></a><mark>Keyword</mark>:</h1>
-<h2 id="◇read-the-fucking-manual(wiki)"><a name="◇read-the-fucking-manual(wiki)" href="#◇read-the-fucking-manual(wiki)"></a>◇Read The Fucking Manual(Wiki)</h2>
-<h2 id="◇<<-back-|-track"><a name="◇<<-back-|-track" href="#◇&lt;&lt;-back-|-track"></a>◇&lt;&lt; Back | Track</h2>
-<h2 id="◇==google==/wiki/feeds/blogger/wordpress"><a name="◇==google==/wiki/feeds/blogger/wordpress" href="#◇==google==/wiki/feeds/blogger/wordpress"></a>◇<mark>Google</mark>/wiki/Feeds/Blogger/Wordpress</h2>
-<h3 id="https://program-think.blogspot.com/"><a name="https://program-think.blogspot.com/" href="#https://program-think.blogspot.com/"></a><a href="https://program-think.blogspot.com/">https://program-think.blogspot.com/</a></h3>
-<h3 id="https://github.com/programthink"><a name="https://github.com/programthink" href="#https://github.com/programthink"></a><a href="https://github.com/programthink">https://github.com/programthink</a></h3>
-<h2 id="◇==github==/markdown"><a name="◇==github==/markdown" href="#◇==github==/markdown"></a>◇<mark>Github</mark>/Markdown</h2>
-<h2 id="◇==xxoo=="><a name="◇==xxoo==" href="#◇==xxoo=="></a>◇<mark>XXOO</mark></h2>
-<h2 id="◇==shadowsocks==/shadowsocksr"><a name="◇==shadowsocks==/shadowsocksr" href="#◇==shadowsocks==/shadowsocksr"></a>◇<mark>ShadowSocks</mark>/ShadowSocksR</h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/ishadowsocks.jpg" alt=""></p>
-<h2 id="◇linux/==ubuntu==/deepin"><a name="◇linux/==ubuntu==/deepin" href="#◇linux/==ubuntu==/deepin"></a>◇Linux/<mark>Ubuntu</mark>/Deepin</h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3707.JPG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/Ubuntu.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/lantern.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/2017-02-26%2018-31-46.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/2017-02-26%2018-05-45.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/2017-02-24%2021-54-04.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/screenlets.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/Ubuntu-GNOME-14-04-LTS-.jpg" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/image-laptop.jpg" alt=""></p>
-<h2 id="◇kali-linux"><a name="◇kali-linux" href="#◇kali-linux"></a>◇Kali Linux</h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/kali.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/matrix.png" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★-https://cc.greatfire.org/en--扩展中国乃至全球的网络言论自由"><a name="★-https://cc.greatfire.org/en--扩展中国乃至全球的网络言论自由" href="#★-https://cc.greatfire.org/en--扩展中国乃至全球的网络言论自由"></a>★ <a href="https://cc.greatfire.org/en">https://cc.greatfire.org/en</a> -扩展中国乃至全球的网络言论自由</h1>
-<h2 id="https://github.com/greatfire/wiki"><a name="https://github.com/greatfire/wiki" href="#https://github.com/greatfire/wiki"></a><a href="https://github.com/greatfire/wiki">https://github.com/greatfire/wiki</a></h2>
-<h2 id="http://www.chinagfw.org/"><a name="http://www.chinagfw.org/" href="#http://www.chinagfw.org/"></a><a href="http://www.chinagfw.org/">http://www.chinagfw.org/</a></h2>
-<h3 id="https://freebrowser.org/"><a name="https://freebrowser.org/" href="#https://freebrowser.org/"></a><a href="https://freebrowser.org/">https://freebrowser.org/</a></h3>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/google.gif" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/github.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/GIT.PNG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/chart-3.jpeg" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★https://fanqianghou.com/--翻墙后看什么"><a name="★★https://fanqianghou.com/--翻墙后看什么" href="#★★https://fanqianghou.com/--翻墙后看什么"></a>★★<a href="https://fanqianghou.com/">https://fanqianghou.com/</a> -翻墙后看什么</h1>
-<h2 id="推荐被中国国家防火墙（==gfw==）封锁的中文资源，以及建议使用的服务"><a name="推荐被中国国家防火墙（==gfw==）封锁的中文资源，以及建议使用的服务" href="#推荐被中国国家防火墙（==gfw==）封锁的中文资源，以及建议使用的服务"></a>推荐被中国国家防火墙（<mark>GFW</mark>）封锁的中文资源，以及建议使用的服务</h2>
-<h2 id="https://www.fanqiangzhe.com/software/"><a name="https://www.fanqiangzhe.com/software/" href="#https://www.fanqiangzhe.com/software/"></a><a href="https://www.fanqiangzhe.com/software/">https://www.fanqiangzhe.com/software/</a></h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/RTFM-it-crowd.jpg" alt=""></p>
-<h3 id="mao-read-the-fucking-manual"><a name="mao-read-the-fucking-manual" href="#mao-read-the-fucking-manual"></a>Mao Read The Fucking Manual</h3>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/itcrowd.jpg" alt=""></p>
-<h3 id="the-it-crowd"><a name="the-it-crowd" href="#the-it-crowd"></a>The IT Crowd</h3>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★https://github.com/racaljk/hosts--最新可用的google==-hosts==文件"><a name="★★★https://github.com/racaljk/hosts--最新可用的google==-hosts==文件" href="#★★★https://github.com/racaljk/hosts--最新可用的google==-hosts==文件"></a>★★★<a href="https://github.com/racaljk/hosts">https://github.com/racaljk/hosts</a> -最新可用的google<mark> hosts</mark>文件</h1>
-<h2 id="https://coding.net/u/scaffrey/p/hosts/git"><a name="https://coding.net/u/scaffrey/p/hosts/git" href="#https://coding.net/u/scaffrey/p/hosts/git"></a><a href="https://coding.net/u/scaffrey/p/hosts/git">https://coding.net/u/scaffrey/p/hosts/git</a></h2>
-<h2 id="https://github.com/lennylxx/ipv6-hosts-（ipv6）"><a name="https://github.com/lennylxx/ipv6-hosts-（ipv6）" href="#https://github.com/lennylxx/ipv6-hosts-（ipv6）"></a><a href="https://github.com/lennylxx/ipv6-hosts">https://github.com/lennylxx/ipv6-hosts</a> （ipv6）</h2>
-<h3 id="1.-用文本编辑器（如-notepad++）打开-(如下图)：%systemroot%\system32\drivers\etc\hosts"><a name="1.-用文本编辑器（如-notepad++）打开-(如下图)：%systemroot%\system32\drivers\etc\hosts" href="#1.-用文本编辑器（如-notepad++）打开-(如下图)：%systemroot%\system32\drivers\etc\hosts"></a>1. 用文本编辑器（如 Notepad++）打开 (如下图)：%SystemRoot%\System32\drivers\etc\hosts</h3>
-<h3 id="2.-将-hosts-全部内容复制到上面的文件内"><a name="2.-将-hosts-全部内容复制到上面的文件内" href="#2.-将-hosts-全部内容复制到上面的文件内"></a>2. 将 hosts 全部内容复制到上面的文件内</h3>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/5010047.jpg" alt=""></p>
-<h3 id="修改-hosts-文件的原理是什么？"><a name="修改-hosts-文件的原理是什么？" href="#修改-hosts-文件的原理是什么？"></a>修改 hosts 文件的原理是什么？</h3>
-<pre><code data-origin="<pre><code>     DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+- - -
 
-      Hosts 文件本来是用来提高解析效率。Hosts请求级别高于DNS。
+- - -
 
-   为了方便用户记忆，我们将IP变成一个个的域名来输入到浏览器进行访问，而这使得访问网站时要先将其域名解析成 IP 。DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+- - -
 
-  在 Great FireWall 的 5 种封锁方法中，有一种简单而效果很好的方法是 DNS 污染。GFW 会对 DNS 的解析过程进行干扰，这会使对某些被干扰的域名返回一个错误的 IP 地址给你的主机，使你无法正确连接到你要的服务器上读取正确的信息。
 
-   Hosts 文件本来是用来提高解析效率。在进行 DNS 请求以前，系统会先检查自己的 Hosts 文件中是否有这个地址映射关系，如果有则调用这个 IP 地址映射，如果没有再向已知的 DNS 服务器提出域名解析。也就是说 Hosts 的请求级别比 DNS 高。当你的 Hosts 文件里面有对应的 IP 时，它就会直接访问那个 IP，而不用通过 DNS。
+#★ https://cc.greatfire.org/en -扩展中国乃至全球的网络言论自由
+## https://github.com/greatfire/wiki
+##http://www.chinagfw.org/
+### https://freebrowser.org/
+![](Instagram/google.gif)
+![](Instagram/github.png)
+![](Instagram/GIT.PNG)
+![](Instagram/chart-3.jpeg)
 
-   所以，当我们直接将 Google、Twitter、Facebook 之类的 IP 放入 Hosts 文件后，就可以跳过 DNS 的解析这一步，直接就行 IP 访问，不受 GFW 的 DNS 污染干扰了。
+* * *
 
-   补充一条，就是为什么 Hosts 的 IP 要时不时更改，为什么 FB、Twitter 会仍旧上不去。是因为 GFW 的第二个大招，IP 封锁。比如访问国外一个 IP 无法访问，Ping 不通，tracert 这个 IP 后发现，全部在边缘路由器 (GFW) 附近被拦截。换言之，GFW 直接拦截带有这个 IP 头的数据包。所以，如果你更改的 IP 被封锁了，就算你过了 DNS 这一关，也仍旧不能翻过 GFW。
-</code></pre>">     DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+- - -
 
-      Hosts 文件本来是用来提高解析效率。Hosts请求级别高于DNS。
+- - -
 
-   为了方便用户记忆，我们将IP变成一个个的域名来输入到浏览器进行访问，而这使得访问网站时要先将其域名解析成 IP 。DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+- - -
 
-  在 Great FireWall 的 5 种封锁方法中，有一种简单而效果很好的方法是 DNS 污染。GFW 会对 DNS 的解析过程进行干扰，这会使对某些被干扰的域名返回一个错误的 IP 地址给你的主机，使你无法正确连接到你要的服务器上读取正确的信息。
+#★★https://fanqianghou.com/ -翻墙后看什么
+##推荐被中国国家防火墙（==GFW==）封锁的中文资源，以及建议使用的服务
+##https://www.fanqiangzhe.com/software/
+![](Instagram/RTFM-it-crowd.jpg)
+###Mao Read The Fucking Manual
+![](Instagram/itcrowd.jpg)
+###The IT Crowd
 
-   Hosts 文件本来是用来提高解析效率。在进行 DNS 请求以前，系统会先检查自己的 Hosts 文件中是否有这个地址映射关系，如果有则调用这个 IP 地址映射，如果没有再向已知的 DNS 服务器提出域名解析。也就是说 Hosts 的请求级别比 DNS 高。当你的 Hosts 文件里面有对应的 IP 时，它就会直接访问那个 IP，而不用通过 DNS。
+* * *
 
-   所以，当我们直接将 Google、Twitter、Facebook 之类的 IP 放入 Hosts 文件后，就可以跳过 DNS 的解析这一步，直接就行 IP 访问，不受 GFW 的 DNS 污染干扰了。
+- - -
 
-   补充一条，就是为什么 Hosts 的 IP 要时不时更改，为什么 FB、Twitter 会仍旧上不去。是因为 GFW 的第二个大招，IP 封锁。比如访问国外一个 IP 无法访问，Ping 不通，tracert 这个 IP 后发现，全部在边缘路由器 (GFW) 附近被拦截。换言之，GFW 直接拦截带有这个 IP 头的数据包。所以，如果你更改的 IP 被封锁了，就算你过了 DNS 这一关，也仍旧不能翻过 GFW。
-</code></pre><h3 id="典型的hosts修改流程"><a name="典型的hosts修改流程" href="#典型的hosts修改流程"></a>典型的hosts修改流程</h3>
-<p>替换或修改hosts文件<br>【Windows】 在开始屏幕搜索 “notepad”，右键选择 “以管理员身份运行” 记事本程序，按下 Ctrl+O 定位到 hosts 文件修改并直接保存。</p>
-<p>【OS X】 在 Finder 窗口按下［前往］［前往文件夹…］，输入 /etc 回车，将 hosts 文件拖拽到桌面，双击修改保存，再将其拖拽回 /etc ，鉴定替换。</p>
-<p>【Linux】 在终端运行命令 sudo vi /etc/hosts 修改。</p>
-<p>【Android、iOS】 使用 iFile 或其它文件管理器应用修改 /etc/hosts，并照原样修改好权限和所有者。</p>
-<p>修改完成之后，刷新 DNS 缓存。</p>
-<p>刷新 DNS 缓存<br>【Windows】 按下 Windows+R 键，运行 cmd ，在命令提示符运行命令 ipconfig /flushdns</p>
-<p>【OS X 10.9】【OS X 10.10.4+ 】在［应用程序］［实用工具］［终端］运行命令 sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder</p>
-<p>【OS X 10.10】 在［应用程序］［实用工具］［终端］运行命令 sudo discoveryutil udnsflushcaches</p>
-<p>【OS X 10.7 ~ 10.8】 在［应用程序］［实用工具］［终端］运行命令 sudo killall -HUP mDNSResponder</p>
-<p>【Linux】 在［终端］运行命令 /etc/rc.d/init.d/nscd restart</p>
-<p>【Android、iOS】 重新启动设备</p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★https://github.com/shadowsocks"><a name="★★★★https://github.com/shadowsocks" href="#★★★★https://github.com/shadowsocks"></a>★★★★<a href="https://github.com/shadowsocks">https://github.com/shadowsocks</a></h1>
-<h2 id="http://www.ishadow.site/-http://iss.pm/-http://iss.pm/-http://iss.pm/"><a name="http://www.ishadow.site/-http://iss.pm/-http://iss.pm/-http://iss.pm/" href="#http://www.ishadow.site/-http://iss.pm/-http://iss.pm/-http://iss.pm/"></a><a href="http://www.ishadow.site/">http://www.ishadow.site/</a>   <a href="http://iss.pm/">http://iss.pm/</a>   <a href="http://iss.pm/">http://iss.pm/</a>   <a href="http://iss.pm/">http://iss.pm/</a></h2>
-<h2 id="https://shadowsocks.org/en/download/clients.html"><a name="https://shadowsocks.org/en/download/clients.html" href="#https://shadowsocks.org/en/download/clients.html"></a><a href="https://shadowsocks.org/en/download/clients.html">https://shadowsocks.org/en/download/clients.html</a></h2>
-<h2 id="shadowsocks（影梭，简称ss）是近年出现的一种基于socks5代理的翻墙软件，比起vpn，shadowsocks更难被gfw发现和封锁，速度和稳定性也都很好。但目前主要问题是市面上还没有出现任何一家特别值得信赖的服务商提供付费的shadowsocks服务，很多技术型翻墙者都是自己搭建shadowsocks服务器供自己和朋友使用。如果您属于“极客翻墙者”，可以考虑购买位于海外的vps来搭建自己的shadowsocks服务器。比如可以使用digitalocean的低价vps（每月5美元）。搭建服务器时vps的地理位置很重要，建议选择位于日本或美国西海岸（san-francisco或los-angeles）的服务器。网上可以找到一些安装shadowsocks服务器的教程（如：这一篇）。安装好服务器后，可以使用shadowsocks官网上推荐的那些客户端软件或app来链接服务器、实现翻墙。"><a name="shadowsocks（影梭，简称ss）是近年出现的一种基于socks5代理的翻墙软件，比起vpn，shadowsocks更难被gfw发现和封锁，速度和稳定性也都很好。但目前主要问题是市面上还没有出现任何一家特别值得信赖的服务商提供付费的shadowsocks服务，很多技术型翻墙者都是自己搭建shadowsocks服务器供自己和朋友使用。如果您属于“极客翻墙者”，可以考虑购买位于海外的vps来搭建自己的shadowsocks服务器。比如可以使用digitalocean的低价vps（每月5美元）。搭建服务器时vps的地理位置很重要，建议选择位于日本或美国西海岸（san-francisco或los-angeles）的服务器。网上可以找到一些安装shadowsocks服务器的教程（如：这一篇）。安装好服务器后，可以使用shadowsocks官网上推荐的那些客户端软件或app来链接服务器、实现翻墙。" href="#shadowsocks（影梭，简称ss）是近年出现的一种基于socks5代理的翻墙软件，比起vpn，shadowsocks更难被gfw发现和封锁，速度和稳定性也都很好。但目前主要问题是市面上还没有出现任何一家特别值得信赖的服务商提供付费的shadowsocks服务，很多技术型翻墙者都是自己搭建shadowsocks服务器供自己和朋友使用。如果您属于“极客翻墙者”，可以考虑购买位于海外的vps来搭建自己的shadowsocks服务器。比如可以使用digitalocean的低价vps（每月5美元）。搭建服务器时vps的地理位置很重要，建议选择位于日本或美国西海岸（san-francisco或los-angeles）的服务器。网上可以找到一些安装shadowsocks服务器的教程（如：这一篇）。安装好服务器后，可以使用shadowsocks官网上推荐的那些客户端软件或app来链接服务器、实现翻墙。"></a>Shadowsocks（影梭，简称SS）是近年出现的一种基于Socks5代理的翻墙软件，比起VPN，Shadowsocks更难被GFW发现和封锁，速度和稳定性也都很好。但目前主要问题是市面上还没有出现任何一家特别值得信赖的服务商提供付费的Shadowsocks服务，很多技术型翻墙者都是自己搭建Shadowsocks服务器供自己和朋友使用。如果您属于“极客翻墙者”，可以考虑购买位于海外的VPS来搭建自己的Shadowsocks服务器。比如可以使用DigitalOcean的低价VPS（每月5美元）。搭建服务器时VPS的地理位置很重要，建议选择位于日本或美国西海岸（San Francisco或Los Angeles）的服务器。网上可以找到一些安装Shadowsocks服务器的教程（如：这一篇）。安装好服务器后，可以使用Shadowsocks官网上推荐的那些客户端软件或APP来链接服务器、实现翻墙。</h2>
-<pre class="bash hljs"><code class="bash" data-origin="<pre><code class=&quot;bash&quot;>pip install shadowsocks
+- - -
+
+- - -
+
+
+#★★★https://github.com/racaljk/hosts -最新可用的google== hosts==文件
+##https://coding.net/u/scaffrey/p/hosts/git
+##https://github.com/lennylxx/ipv6-hosts （ipv6）
+### 1. 用文本编辑器（如 Notepad++）打开 (如下图)：%SystemRoot%\System32\drivers\etc\hosts
+### 2. 将 hosts 全部内容复制到上面的文件内
+![](Instagram/5010047.jpg)
+###修改 hosts 文件的原理是什么？
+         DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+
+          Hosts 文件本来是用来提高解析效率。Hosts请求级别高于DNS。
+
+       为了方便用户记忆，我们将IP变成一个个的域名来输入到浏览器进行访问，而这使得访问网站时要先将其域名解析成 IP 。DNS (Domain Name Server) 的作用就是进行 IP 解析，把域名对应到 IP。
+
+      在 Great FireWall 的 5 种封锁方法中，有一种简单而效果很好的方法是 DNS 污染。GFW 会对 DNS 的解析过程进行干扰，这会使对某些被干扰的域名返回一个错误的 IP 地址给你的主机，使你无法正确连接到你要的服务器上读取正确的信息。
+
+       Hosts 文件本来是用来提高解析效率。在进行 DNS 请求以前，系统会先检查自己的 Hosts 文件中是否有这个地址映射关系，如果有则调用这个 IP 地址映射，如果没有再向已知的 DNS 服务器提出域名解析。也就是说 Hosts 的请求级别比 DNS 高。当你的 Hosts 文件里面有对应的 IP 时，它就会直接访问那个 IP，而不用通过 DNS。
+
+       所以，当我们直接将 Google、Twitter、Facebook 之类的 IP 放入 Hosts 文件后，就可以跳过 DNS 的解析这一步，直接就行 IP 访问，不受 GFW 的 DNS 污染干扰了。
+
+       补充一条，就是为什么 Hosts 的 IP 要时不时更改，为什么 FB、Twitter 会仍旧上不去。是因为 GFW 的第二个大招，IP 封锁。比如访问国外一个 IP 无法访问，Ping 不通，tracert 这个 IP 后发现，全部在边缘路由器 (GFW) 附近被拦截。换言之，GFW 直接拦截带有这个 IP 头的数据包。所以，如果你更改的 IP 被封锁了，就算你过了 DNS 这一关，也仍旧不能翻过 GFW。
+
+###典型的hosts修改流程
+替换或修改hosts文件
+【Windows】 在开始屏幕搜索 “notepad”，右键选择 “以管理员身份运行” 记事本程序，按下 Ctrl+O 定位到 hosts 文件修改并直接保存。
+
+【OS X】 在 Finder 窗口按下［前往］［前往文件夹…］，输入 /etc 回车，将 hosts 文件拖拽到桌面，双击修改保存，再将其拖拽回 /etc ，鉴定替换。
+
+【Linux】 在终端运行命令 sudo vi /etc/hosts 修改。
+
+【Android、iOS】 使用 iFile 或其它文件管理器应用修改 /etc/hosts，并照原样修改好权限和所有者。
+
+修改完成之后，刷新 DNS 缓存。
+
+刷新 DNS 缓存
+【Windows】 按下 Windows+R 键，运行 cmd ，在命令提示符运行命令 ipconfig /flushdns
+
+【OS X 10.9】【OS X 10.10.4+ 】在［应用程序］［实用工具］［终端］运行命令 sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder
+
+【OS X 10.10】 在［应用程序］［实用工具］［终端］运行命令 sudo discoveryutil udnsflushcaches
+
+【OS X 10.7 ~ 10.8】 在［应用程序］［实用工具］［终端］运行命令 sudo killall -HUP mDNSResponder
+
+【Linux】 在［终端］运行命令 /etc/rc.d/init.d/nscd restart
+
+【Android、iOS】 重新启动设备
+
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★https://github.com/shadowsocks
+##http://www.ishadow.site/   http://iss.pm/   http://iss.pm/   http://iss.pm/
+##https://shadowsocks.org/en/download/clients.html
+##Shadowsocks（影梭，简称SS）是近年出现的一种基于Socks5代理的翻墙软件，比起VPN，Shadowsocks更难被GFW发现和封锁，速度和稳定性也都很好。但目前主要问题是市面上还没有出现任何一家特别值得信赖的服务商提供付费的Shadowsocks服务，很多技术型翻墙者都是自己搭建Shadowsocks服务器供自己和朋友使用。如果您属于“极客翻墙者”，可以考虑购买位于海外的VPS来搭建自己的Shadowsocks服务器。比如可以使用DigitalOcean的低价VPS（每月5美元）。搭建服务器时VPS的地理位置很重要，建议选择位于日本或美国西海岸（San Francisco或Los Angeles）的服务器。网上可以找到一些安装Shadowsocks服务器的教程（如：这一篇）。安装好服务器后，可以使用Shadowsocks官网上推荐的那些客户端软件或APP来链接服务器、实现翻墙。
+```bash
+pip install shadowsocks
 apt-get install shadowsocks-libev
-</code></pre>">pip install shadowsocks
-apt-get install shadowsocks-libev
-</code></pre>
-<pre class="bash hljs"><code class="bash" data-origin="<pre><code class=&quot;bash&quot;>sudo add-apt-repository ppa:hzwhuang/ss-qt5
+```
+```bash
+sudo add-apt-repository ppa:hzwhuang/ss-qt5
 sudo apt-get update
 sudo apt-get install shadowsocks-qt5
-</code></pre>">sudo add-apt-repository ppa:hzwhuang/ss-qt5
-sudo apt-get update
-sudo apt-get install shadowsocks-qt5
-</code></pre>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/Shadowsocks_logo.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/clowwindy.jpg" alt=""></p>
-<h3 id="clowwindy"><a name="clowwindy" href="#clowwindy"></a>clowwindy</h3>
-<h1 id="$作者-@clowwindy-喝茶事件"><a name="$作者-@clowwindy-喝茶事件" href="#$作者-@clowwindy-喝茶事件"></a>$作者 @Clowwindy 喝茶事件</h1>
-<p><a href="https://prinzeugen.net/about-clowwindy-archive/">https://prinzeugen.net/about-clowwindy-archive/</a></p>
-<p>有幸从事件初露端弥的时候就得知消息，这里整理了一下事件的时间轴。希望这点资料能帮助到别人。另外，为了不影响首页阅览体验，本博客已经将其他关于 shadowsocks 的新闻放入 Chamber，不再在首页上显示。可以点 这里 访问 Chamber 分类目录。以后更新都会在这篇文章中更新，首发与 2015.8.22，以后此文章将会随着更新而修改发布日期。<br>8.20<br>@clowwindy 就 @breakwa11 关于 shadowsocks-rss 开源协议问题发言<br><a href="https://prinzeugen.net/about-shadowsocks-r/">https://prinzeugen.net/about-shadowsocks-r/</a><br>8.20<br>根据 @clowwindy 的发言可以确定的具体喝茶时间<br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/ssr.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/CNAn-XEUYAA3XH-.png" alt=""></p>
-<h2 id="two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey."><a name="two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey." href="#two-days-ago-the-police-came-to-me-and-wanted-me-to-stop-working-on-this.-today-they-asked-me-to-delete-all-the-code-from-github.-i-have-no-choice-but-to-obey."></a>Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey.</h2>
-<h2 id="i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing."><a name="i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing." href="#i-hope-one-day-i’ll-live-in-a-country-where-i-have-freedom-to-write-any-code-i-like-without-fearing."></a>I hope one day I’ll live in a country where I have freedom to write any code I like without fearing.</h2>
-<h2 id="i-believe-you-guys-will-make-great-stuff-with-network-extensions."><a name="i-believe-you-guys-will-make-great-stuff-with-network-extensions." href="#i-believe-you-guys-will-make-great-stuff-with-network-extensions."></a>I believe you guys will make great stuff with Network Extensions.</h2>
-<h2 id="cheers!"><a name="cheers!" href="#cheers!"></a>Cheers!</h2>
-<p><a href="https://github.com/shadowsocks/shadowsocks-iOS/issues/124">https://github.com/shadowsocks/shadowsocks-iOS/issues/124</a> (web archive)<br>8.20 晚<br>访问 V2EX shadowsocks 节点跳转到首页<br><a href="https://prinzeugen.net/disappearance-of-v2ex-shadowsocks-node/">https://prinzeugen.net/disappearance-of-v2ex-shadowsocks-node/</a><br>根据 ＠livid 在 这里 32楼的发言来看，shadowsocks 节点并非被移除而是对注册时间少于 1000 天的用户隐藏了<br>8.20 晚<br>@clowwindy 把他所维护的几个 shadowsocks 实现的代码仓库内的 Issue 面板全部关闭，所有帮助信息全部删除，所有的描述都改成了 Something happened。另外，他还清空了该组织的 membership，或者将所有成员全部转入隐私状态，不对外公开。<br><a href="https://typeblog.net/life/2015/08/21/long-live-shadowsocks.html">https://typeblog.net/life/2015/08/21/long-live-shadowsocks.html</a><br>8.21<br>传出 @clowwindy 被请去喝茶的消息<br><a href="https://prinzeugen.net/pray-for-clowwindy/">https://prinzeugen.net/pray-for-clowwindy/</a><br>他在 shadowsocks-windows 的 #305 issue 下回复道<br>I was invited for some tea yesterday. I won’t be able to continue developing this project.<br>同时开启了 twitter 的隐私保护，除先前关注者外无法查看动态<br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/CM5y46bVEAAxWdV.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3805.PNG" alt=""><br>8.21 晚<br>@clowwindy 发布了 thanks. 后的推文，证明人没事<br><a href="https://prinzeugen.net/thanks-clowwindy/">https://prinzeugen.net/thanks-clowwindy/</a><br>8.21 晚<br>shadowsocksR 作者 @breakwa11 表示会继续开发新版本，@clowwindy 对其致谢<br><a href="https://prinzeugen.net/the-author-of-shadowsocks-rss-will-keep-developing-new-version/">https://prinzeugen.net/the-author-of-shadowsocks-rss-will-keep-developing-new-version/</a><br>8.22<br>@clowwindy 删除所有 github 上的 shadowsocks 仓库，之前在 twitter 上发布了删除的相关动态。<br><a href="https://prinzeugen.net/clowwindy-has-removed-all-repository-of-shadowsocks-on-github/">https://prinzeugen.net/clowwindy-has-removed-all-repository-of-shadowsocks-on-github/</a><br>同时 @clowwindy 明确表示不会继续开发 shadowsocks 项目</p>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/2015-08-22_09-34-40.png" alt=""><br>8.24<br>@breakwa11 发布 ShadowsocksR C# v3.4.0<br><a href="https://prinzeugen.net/shadowsocksr-new-release/">https://prinzeugen.net/shadowsocksr-new-release/</a><br>8.25<br>@breakwa11 发布 SSR 更新计划<br><a href="https://github.com/breakwa11/shadowsocks-rss/issues/35">https://github.com/breakwa11/shadowsocks-rss/issues/35</a><br>其他关于 shadowsocks-R 以及 goAgent 的新闻窝就不贴了。<br>以上。如有错误请指出。</p>
-<h1 id="$ss-的产生"><a name="$ss-的产生" href="#$ss-的产生"></a>$SS 的产生</h1>
-<p><a href="https://typeblog.net/say-goodbye-to-v2ex/">https://typeblog.net/say-goodbye-to-v2ex/</a></p>
-<h2 id="很久很久以前"><a name="很久很久以前" href="#很久很久以前"></a>很久很久以前</h2>
-<p>Long long ago, 在一个叫 v2ex 的地方，有一位叫做 clowwindy 的用户。他为了避免 网络流量分类技术 和 ssh tunnel 的低效，自己写了一个用于加密流量的协议，并 自用了一年多. 后来，由于这个协议非常高效，而且使用json 作为配置文件，配置起来非常方便，所以迅速赢得了很多用户，并在 v2ex 上有了一个专属的节点。shadowsocks 迅速被移植到各种平台、各种语言，用户也急剧上升，并且有了专门经营 shadowsocks 服务的商家。</p>
-<h2 id="近期"><a name="近期" href="#近期"></a>近期</h2>
-<p>最近，网络流量分类技术 有了迅速发展的趋势，各种 VPN 服务被迅速屏蔽。而 shadowsocks 的用户量急剧上升必然引起注意，由于 shadowsocks 的协议设计考虑过 网络流量分类技术 ，所以直接屏蔽起来比其他的协议要稍难一些（没错，是稍难一些，按特征屏蔽仍然是可能的）。自从 红旗文稿发布了一篇文章 以后，屏蔽的速度越来越快，而 shadowsocks 就被追查到了发源地 —— v2ex 。这个地方不仅仅有 shadowsocks ，还有各种 VPN 技术的交流。从春节前开始，shadowsocks 节点就被定向干扰，而最近，整个 v2ex 都被当作关键字加入了屏蔽列表。</p>
-<h2 id="以后"><a name="以后" href="#以后"></a>以后</h2>
-<p>偌大一个社区必然不会因为被屏蔽就轰然倒塌。但是，至少，这给上这个社区增加了一定的门槛（虽然 https 流量还没有被完全屏蔽）。也许这也可以给社区过滤一些垃圾用户吧，也许也可以少一些广告吧。<br>但是社区真的受益了吗？很明显不是的。创始人 Livid 自己也说了，v2ex 一开始就想 以自我审查来避免官方审查，但是很显然，这已经不起作用了。每当一个网站被屏蔽，都有人说这是自找的，但是，真的应该这么做吗？<br>不管怎么说，v2ex 已经被加上特技了，那些 duang duang duang 的也不会因为被屏蔽就上不了 v2ex 。能上的依然上他们的 v2ex，不知道的人依然不知道。也许这就是一种麻木吧。话又说回来，如果大家都不麻木的话，网络流量分类技术 这种东西怎么可能被成功建立起来。<br><mark>他们屏蔽Facebook的时候，我没有说话，我用人人网<br>他们屏蔽Google的时候，我没有说话，我用百度<br>他们屏蔽Gist的时候，我没有说话，我用Pastebin<br>但现在他们又向我的v2ex走来<br>我想说话，可是已经没有人响应我了</mark></p>
-<h1 id="$作者-@clowwindy-论-ss-与-shadowsocks.com-的关系"><a name="$作者-@clowwindy-论-ss-与-shadowsocks.com-的关系" href="#$作者-@clowwindy-论-ss-与-shadowsocks.com-的关系"></a>$作者 @Clowwindy 论 SS 与 Shadowsocks.com 的关系</h1>
-<p><a href="https://www.v2ex.com/t/166417?p=2">https://www.v2ex.com/t/166417?p=2</a></p>
-<p>看你们吵的这么激烈，再澄清一下吧。</p>
-<ol>
-<li><p>当时几个版本内置的公共服务器流量爆了，打算把公共服务器给 @showfom 运营，并帮 @showfom 架设了服务。但没想到实际情况变成了用名气来进行宣传，也没想到这个服务会被用户当成“官方”，所以为了避免这种误解，加上精力也不够，还是取消了合作，没有收一分钱。在 Twitter 发过澄清，没在 V2EX 发是一个疏忽。至于在代码里加红字警告? Are you kidding? 一个开源项目，代码本身应该是中立的，是不应该有立场的。</p>
-</li><li><p>为了避免今后出现类似的情况，在这里做一个声明：Shadowsocks 是一个由很多人参与的开源项目，它只是一个程序，一套算法。这些人是以自由的形式凭自己的兴趣参与这个项目的，不存在“Shadowsocks 团队”，只存在贡献者。哪天现在的这些人不维护这些代码了，也会有其他人继续维护下去。至于 Shadowsocks 的使用，只要不违反开源授权，不会干涉。</p>
-</li><li><p>公共服务器还是免费，只是做了限速以免流量用超。OS X 版的公共服务器速度慢到不能用的时候直接关掉了。和 GFW 捉迷藏换 IP 的游戏，虽然已经半自动化，但一点也不好玩，你们明白 fqrouter 为什么要关了吧。</p>
-</li><li><p>从实际情况上来看，Shadowsocks 没有办法离开去中心化的服务器。要么自己花钱买 VPS，要么用有人分享的账号，要么用有人提供的付费服务，他们各有所长，适合不同的人。所以作为开发者，保持中立，不偏袒其中任何一方，顺其自然发展下去是最好的吧。</p>
-</li></ol>
-<p>很多人要么一窝蜂的支持，要么一窝蜂的反对，还要把它给封禁掉，大概这种心理鲁迅先生也曾批判过。我还记得当年极路由在 V2EX 被冤枉的时候，也是一边倒的说极路由窃取隐私。如果你们真的那么讨厌商业，那你们应该首先把你们的苹果设备给摔了，因为它就是商业社会巅峰造极的产物。我反对不喜欢一个东西就要拿出简单粗暴的制裁手段，正是这种习性成就了 GFW。</p>
-<p>维护这个项目到现在大概总共回复过几千个问题，开始慢慢想清楚了一件事，为什么会存在 GFW。从这些提问可以看出，大部分人的自理能力都很差，只是等着别人帮他。特别是那些从 App Store 下载了 App 用着公共服务器的人，经常发来一封只有四个字的邮件：“不能用了？” 我觉得这是一个社会常识，花一分钟写的问题，不能期待一个毫无交情的陌生人花一个小时耐心地问你版本和操作步骤，模拟出你的环境来帮你分析解决。Windows 版加上 GFWList 功能以来，我反复呼吁给 GFWList 提交规则，但是一个月过去了竟然一个提交都没有。如果没有人做一点什么，它自己是不会更新的啊，没有人会义务地帮你打理这些。最近 net-speeder 又开始流行，害人害己。我觉得，政府无限的权力，都是大部分人自己放弃的。假货坑爹，让政府审核。孩子管不好，让政府关网吧。有人在微博骂我，让政府去删。房价太高，让政府去限购。我们的文化实在太独特，创造出了家长式威权政府，GFW 正是在这种背景下产生的，一个社会矛盾的终极调和器，最终生活不能自理的你每天做的每一件事情都要给政府审查一遍，以免伤害到其他同样生活不能自理的人。这是一个零和游戏，越和这样的用户打交道，越对未来持悲观态度，觉得 GFW 可能永远也不会消失，而墙内的这个局域网看起来还似乎生机勃勃的自成一体，真是让人绝望。</p>
-<p>顺便回答几个其它的问题吧。</p>
-<ol>
-<li><p>为什么项目的文档和网站是英文的？开源项目用英文来维护本来就是一个约定俗成的做法。网络审查和屏蔽不是一个国家的事情，而是一个世界性的问题。这些项目有很多其它国家的用户，也有一些国外的大牛作出过宝贵的贡献。</p>
-</li><li><p>参与的人只是凭兴趣做自己喜欢的事情，如果你的 issue 不像是一种思考和贡献，而更像是咨询客服，那被关掉了不要觉得惊讶。</p>
-</li></ol>
-<h1 id="$作者-@clowwindy-说-shadowsocksr"><a name="$作者-@clowwindy-说-shadowsocksr" href="#$作者-@clowwindy-说-shadowsocksr"></a>$作者 @Clowwindy 说 ShadowsocksR</h1>
-<p><a href="https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168">https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168</a><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/QQ20150822-2@2x.png" alt=""><br>那是自然的咯。这边加了什么功能，它马上扒过去合并了。它那边加了什么却不会贡献出来给其他人用，久而久之，不就是它那边功能更多了吗。<br>一直以来我什么都没说是因为我对他还有点希望，所以得给他一点面子不是。一开始我还只是纳闷他为什么不发 pull request，过了一段时间我才明白，这个世界上也有这一类的人。不尊重 GPL 就算了，把作者名字换成自己的，还在主页上加上官方的字样。为什么我们这边反而不说官方呢？因为我希望这个项目是没有官方的，人人都是贡献者。想不到这个社会人人都围着官转，人人都巴不得当官 。<br>既然他没有尊重别人劳动成果的意愿，那他那些不开源的理由想必也只是借口。说因为加了一些试验性功能会不兼容所以暂不开源。他弄了一个混淆 TCP 协议头功能，在界面上标注提升安全性，吸引用户打开，然后安装他自己的不兼容服务端。然而我分析了一下之后发现这个功能的设计就是想当然，用得多了以后反而会增加特征。如果你真有什么试验性功能，不是更应该开放出来让所有人帮你分析么，大家一起讨论么？在加密算法领域，只有经过足够多人和机构的审视的算法，才能视作是安全的，闭门造出来的怎么能用。<br>当然啦，大部分用户才不会管这些，他们不会分析你是不是真的安全，也不会做道德判断，只要他们觉得好用就行。所以可以看到，这种环境下开源其实并没有什么优势，只不过为一些人抄袭提供了便利。这种环境下最后留下来的都是这些人。<br>我一直想象的那种大家一起来维护一个项目的景象始终没有出现，也没有出现的迹象。维护这个项目的过程中，遇到 @chenshaoju 这样主动分享的同学并不多。很多来汇报问题的人是以一种小白求大大解决问题，解决完就走人的方式来的，然而既不愿提供足够的信息，也不愿写一些自己尝试的过程供后人参考。互帮互助的气氛就是搞不起来。对比下国外的社区差好远。<br>最适合这个民族的其实是一群小白围着大大转，大大通过小白的夸奖获得自我满足，然后小白的吃喝拉撒都包给大大解决的模式。通过这个项目我感觉我已经彻底认识到这个民族的前面为什么会有一堵墙了。没有墙哪来的大大。所以到处都是什么附件回帖可见，等级多少用户组可见，一个论坛一个大大供小白跪舔，不需要政府造墙，网民也会自发造墙。这尼玛连做个翻墙软件都要造墙，真是令人叹为观止。这是一个造了几千年墙的保守的农耕民族，缺乏对别人的基本尊重，不愿意分享，喜欢遮遮掩掩，喜欢小圈子抱团，大概这些传统是改不掉了吧。<br>现在维护这些项目已经越来越让我感到无趣。我还是努力工作，好好养家，早日肉翻吧。</p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★https://github.com/breakwa11"><a name="★★★★★https://github.com/breakwa11" href="#★★★★★https://github.com/breakwa11"></a>★★★★★<a href="https://github.com/breakwa11">https://github.com/breakwa11</a></h1>
-<h2 id="https://github.com/breakwa11/shadowsocks-rss"><a name="https://github.com/breakwa11/shadowsocks-rss" href="#https://github.com/breakwa11/shadowsocks-rss"></a><a href="https://github.com/breakwa11/shadowsocks-rss">https://github.com/breakwa11/shadowsocks-rss</a></h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/ss.PNG" alt=""></p>
-<pre class="bash hljs"><code class="bash" data-origin="<pre><code class=&quot;bash&quot;>   apt-get install git
+
+```
+![](Instagram/Shadowsocks_logo.png)
+![](Instagram/clowwindy.jpg)
+
+###clowwindy
+#$$作者 @Clowwindy 喝茶事件
+https://prinzeugen.net/about-clowwindy-archive/
+
+有幸从事件初露端弥的时候就得知消息，这里整理了一下事件的时间轴。希望这点资料能帮助到别人。另外，为了不影响首页阅览体验，本博客已经将其他关于 shadowsocks 的新闻放入 Chamber，不再在首页上显示。可以点 这里 访问 Chamber 分类目录。以后更新都会在这篇文章中更新，首发与 2015.8.22，以后此文章将会随着更新而修改发布日期。
+8.20
+@clowwindy 就 @breakwa11 关于 shadowsocks-rss 开源协议问题发言
+https://prinzeugen.net/about-shadowsocks-r/
+8.20
+根据 @clowwindy 的发言可以确定的具体喝茶时间
+![](Instagram/ssr.png)
+![](Instagram/CNAn-XEUYAA3XH-.png)
+##Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey.
+##I hope one day I’ll live in a country where I have freedom to write any code I like without fearing.
+##I believe you guys will make great stuff with Network Extensions.
+##Cheers!
+https://github.com/shadowsocks/shadowsocks-iOS/issues/124 (web archive)
+8.20 晚
+访问 V2EX shadowsocks 节点跳转到首页
+https://prinzeugen.net/disappearance-of-v2ex-shadowsocks-node/
+根据 ＠livid 在 这里 32楼的发言来看，shadowsocks 节点并非被移除而是对注册时间少于 1000 天的用户隐藏了
+8.20 晚
+@clowwindy 把他所维护的几个 shadowsocks 实现的代码仓库内的 Issue 面板全部关闭，所有帮助信息全部删除，所有的描述都改成了 Something happened。另外，他还清空了该组织的 membership，或者将所有成员全部转入隐私状态，不对外公开。
+https://typeblog.net/life/2015/08/21/long-live-shadowsocks.html
+8.21
+传出 @clowwindy 被请去喝茶的消息
+https://prinzeugen.net/pray-for-clowwindy/
+他在 shadowsocks-windows 的 #305 issue 下回复道
+I was invited for some tea yesterday. I won’t be able to continue developing this project.
+同时开启了 twitter 的隐私保护，除先前关注者外无法查看动态
+![](Instagram/CM5y46bVEAAxWdV.png)
+![](Instagram/IMG_3805.PNG)
+8.21 晚
+@clowwindy 发布了 thanks. 后的推文，证明人没事
+https://prinzeugen.net/thanks-clowwindy/
+8.21 晚
+shadowsocksR 作者 @breakwa11 表示会继续开发新版本，@clowwindy 对其致谢
+https://prinzeugen.net/the-author-of-shadowsocks-rss-will-keep-developing-new-version/
+8.22
+@clowwindy 删除所有 github 上的 shadowsocks 仓库，之前在 twitter 上发布了删除的相关动态。
+https://prinzeugen.net/clowwindy-has-removed-all-repository-of-shadowsocks-on-github/
+同时 @clowwindy 明确表示不会继续开发 shadowsocks 项目
+
+![](Instagram/2015-08-22_09-34-40.png)
+8.24
+@breakwa11 发布 ShadowsocksR C# v3.4.0
+https://prinzeugen.net/shadowsocksr-new-release/
+8.25
+@breakwa11 发布 SSR 更新计划
+https://github.com/breakwa11/shadowsocks-rss/issues/35
+其他关于 shadowsocks-R 以及 goAgent 的新闻窝就不贴了。
+以上。如有错误请指出。
+#$$SS 的产生
+https://typeblog.net/say-goodbye-to-v2ex/
+
+##很久很久以前
+Long long ago, 在一个叫 v2ex 的地方，有一位叫做 clowwindy 的用户。他为了避免 网络流量分类技术 和 ssh tunnel 的低效，自己写了一个用于加密流量的协议，并 自用了一年多. 后来，由于这个协议非常高效，而且使用json 作为配置文件，配置起来非常方便，所以迅速赢得了很多用户，并在 v2ex 上有了一个专属的节点。shadowsocks 迅速被移植到各种平台、各种语言，用户也急剧上升，并且有了专门经营 shadowsocks 服务的商家。
+##近期
+最近，网络流量分类技术 有了迅速发展的趋势，各种 VPN 服务被迅速屏蔽。而 shadowsocks 的用户量急剧上升必然引起注意，由于 shadowsocks 的协议设计考虑过 网络流量分类技术 ，所以直接屏蔽起来比其他的协议要稍难一些（没错，是稍难一些，按特征屏蔽仍然是可能的）。自从 红旗文稿发布了一篇文章 以后，屏蔽的速度越来越快，而 shadowsocks 就被追查到了发源地 —— v2ex 。这个地方不仅仅有 shadowsocks ，还有各种 VPN 技术的交流。从春节前开始，shadowsocks 节点就被定向干扰，而最近，整个 v2ex 都被当作关键字加入了屏蔽列表。
+##以后
+偌大一个社区必然不会因为被屏蔽就轰然倒塌。但是，至少，这给上这个社区增加了一定的门槛（虽然 https 流量还没有被完全屏蔽）。也许这也可以给社区过滤一些垃圾用户吧，也许也可以少一些广告吧。
+但是社区真的受益了吗？很明显不是的。创始人 Livid 自己也说了，v2ex 一开始就想 以自我审查来避免官方审查，但是很显然，这已经不起作用了。每当一个网站被屏蔽，都有人说这是自找的，但是，真的应该这么做吗？
+不管怎么说，v2ex 已经被加上特技了，那些 duang duang duang 的也不会因为被屏蔽就上不了 v2ex 。能上的依然上他们的 v2ex，不知道的人依然不知道。也许这就是一种麻木吧。话又说回来，如果大家都不麻木的话，网络流量分类技术 这种东西怎么可能被成功建立起来。
+==他们屏蔽Facebook的时候，我没有说话，我用人人网
+他们屏蔽Google的时候，我没有说话，我用百度
+他们屏蔽Gist的时候，我没有说话，我用Pastebin
+但现在他们又向我的v2ex走来
+我想说话，可是已经没有人响应我了==
+#$$作者 @Clowwindy 论 SS 与 Shadowsocks.com 的关系
+https://www.v2ex.com/t/166417?p=2
+
+看你们吵的这么激烈，再澄清一下吧。
+
+1. 当时几个版本内置的公共服务器流量爆了，打算把公共服务器给 @showfom 运营，并帮 @showfom 架设了服务。但没想到实际情况变成了用名气来进行宣传，也没想到这个服务会被用户当成“官方”，所以为了避免这种误解，加上精力也不够，还是取消了合作，没有收一分钱。在 Twitter 发过澄清，没在 V2EX 发是一个疏忽。至于在代码里加红字警告? Are you kidding? 一个开源项目，代码本身应该是中立的，是不应该有立场的。
+
+2. 为了避免今后出现类似的情况，在这里做一个声明：Shadowsocks 是一个由很多人参与的开源项目，它只是一个程序，一套算法。这些人是以自由的形式凭自己的兴趣参与这个项目的，不存在“Shadowsocks 团队”，只存在贡献者。哪天现在的这些人不维护这些代码了，也会有其他人继续维护下去。至于 Shadowsocks 的使用，只要不违反开源授权，不会干涉。
+
+3. 公共服务器还是免费，只是做了限速以免流量用超。OS X 版的公共服务器速度慢到不能用的时候直接关掉了。和 GFW 捉迷藏换 IP 的游戏，虽然已经半自动化，但一点也不好玩，你们明白 fqrouter 为什么要关了吧。
+
+4. 从实际情况上来看，Shadowsocks 没有办法离开去中心化的服务器。要么自己花钱买 VPS，要么用有人分享的账号，要么用有人提供的付费服务，他们各有所长，适合不同的人。所以作为开发者，保持中立，不偏袒其中任何一方，顺其自然发展下去是最好的吧。
+
+很多人要么一窝蜂的支持，要么一窝蜂的反对，还要把它给封禁掉，大概这种心理鲁迅先生也曾批判过。我还记得当年极路由在 V2EX 被冤枉的时候，也是一边倒的说极路由窃取隐私。如果你们真的那么讨厌商业，那你们应该首先把你们的苹果设备给摔了，因为它就是商业社会巅峰造极的产物。我反对不喜欢一个东西就要拿出简单粗暴的制裁手段，正是这种习性成就了 GFW。
+
+维护这个项目到现在大概总共回复过几千个问题，开始慢慢想清楚了一件事，为什么会存在 GFW。从这些提问可以看出，大部分人的自理能力都很差，只是等着别人帮他。特别是那些从 App Store 下载了 App 用着公共服务器的人，经常发来一封只有四个字的邮件：“不能用了？” 我觉得这是一个社会常识，花一分钟写的问题，不能期待一个毫无交情的陌生人花一个小时耐心地问你版本和操作步骤，模拟出你的环境来帮你分析解决。Windows 版加上 GFWList 功能以来，我反复呼吁给 GFWList 提交规则，但是一个月过去了竟然一个提交都没有。如果没有人做一点什么，它自己是不会更新的啊，没有人会义务地帮你打理这些。最近 net-speeder 又开始流行，害人害己。我觉得，政府无限的权力，都是大部分人自己放弃的。假货坑爹，让政府审核。孩子管不好，让政府关网吧。有人在微博骂我，让政府去删。房价太高，让政府去限购。我们的文化实在太独特，创造出了家长式威权政府，GFW 正是在这种背景下产生的，一个社会矛盾的终极调和器，最终生活不能自理的你每天做的每一件事情都要给政府审查一遍，以免伤害到其他同样生活不能自理的人。这是一个零和游戏，越和这样的用户打交道，越对未来持悲观态度，觉得 GFW 可能永远也不会消失，而墙内的这个局域网看起来还似乎生机勃勃的自成一体，真是让人绝望。
+
+顺便回答几个其它的问题吧。
+
+1. 为什么项目的文档和网站是英文的？开源项目用英文来维护本来就是一个约定俗成的做法。网络审查和屏蔽不是一个国家的事情，而是一个世界性的问题。这些项目有很多其它国家的用户，也有一些国外的大牛作出过宝贵的贡献。
+
+2. 参与的人只是凭兴趣做自己喜欢的事情，如果你的 issue 不像是一种思考和贡献，而更像是咨询客服，那被关掉了不要觉得惊讶。
+
+#$$作者 @Clowwindy 说 ShadowsocksR
+https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168
+![](Instagram/QQ20150822-2@2x.png)
+那是自然的咯。这边加了什么功能，它马上扒过去合并了。它那边加了什么却不会贡献出来给其他人用，久而久之，不就是它那边功能更多了吗。
+一直以来我什么都没说是因为我对他还有点希望，所以得给他一点面子不是。一开始我还只是纳闷他为什么不发 pull request，过了一段时间我才明白，这个世界上也有这一类的人。不尊重 GPL 就算了，把作者名字换成自己的，还在主页上加上官方的字样。为什么我们这边反而不说官方呢？因为我希望这个项目是没有官方的，人人都是贡献者。想不到这个社会人人都围着官转，人人都巴不得当官 。
+既然他没有尊重别人劳动成果的意愿，那他那些不开源的理由想必也只是借口。说因为加了一些试验性功能会不兼容所以暂不开源。他弄了一个混淆 TCP 协议头功能，在界面上标注提升安全性，吸引用户打开，然后安装他自己的不兼容服务端。然而我分析了一下之后发现这个功能的设计就是想当然，用得多了以后反而会增加特征。如果你真有什么试验性功能，不是更应该开放出来让所有人帮你分析么，大家一起讨论么？在加密算法领域，只有经过足够多人和机构的审视的算法，才能视作是安全的，闭门造出来的怎么能用。
+当然啦，大部分用户才不会管这些，他们不会分析你是不是真的安全，也不会做道德判断，只要他们觉得好用就行。所以可以看到，这种环境下开源其实并没有什么优势，只不过为一些人抄袭提供了便利。这种环境下最后留下来的都是这些人。
+我一直想象的那种大家一起来维护一个项目的景象始终没有出现，也没有出现的迹象。维护这个项目的过程中，遇到 @chenshaoju 这样主动分享的同学并不多。很多来汇报问题的人是以一种小白求大大解决问题，解决完就走人的方式来的，然而既不愿提供足够的信息，也不愿写一些自己尝试的过程供后人参考。互帮互助的气氛就是搞不起来。对比下国外的社区差好远。
+最适合这个民族的其实是一群小白围着大大转，大大通过小白的夸奖获得自我满足，然后小白的吃喝拉撒都包给大大解决的模式。通过这个项目我感觉我已经彻底认识到这个民族的前面为什么会有一堵墙了。没有墙哪来的大大。所以到处都是什么附件回帖可见，等级多少用户组可见，一个论坛一个大大供小白跪舔，不需要政府造墙，网民也会自发造墙。这尼玛连做个翻墙软件都要造墙，真是令人叹为观止。这是一个造了几千年墙的保守的农耕民族，缺乏对别人的基本尊重，不愿意分享，喜欢遮遮掩掩，喜欢小圈子抱团，大概这些传统是改不掉了吧。
+现在维护这些项目已经越来越让我感到无趣。我还是努力工作，好好养家，早日肉翻吧。
+ 
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★https://github.com/breakwa11
+##https://github.com/breakwa11/shadowsocks-rss
+![](Instagram/ss.PNG)
+```bash
+   apt-get install git
    git clone -b manyuser https://github.com/shadowsocksr/shadowsocksr.git
-</code></pre>">   apt-get install git
-   git <span class="hljs-built_in">clone</span> -b manyuser https://github.com/shadowsocksr/shadowsocksr.git
-</code></pre>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/8436963%20.jpg" alt=""></p>
-<h3 id="breakwa11破娃酱"><a name="breakwa11破娃酱" href="#breakwa11破娃酱"></a>breakwa11破娃酱</h3>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/w8B4bWe.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/ShadowsocksR.png" alt=""></p>
-<h3 id="shadowsocksr原理"><a name="shadowsocksr原理" href="#shadowsocksr原理"></a>ShadowSocksR原理</h3>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★★https://github.com/xx-net/xx-net/blob/master/code/default/download.md"><a name="★★★★★★https://github.com/xx-net/xx-net/blob/master/code/default/download.md" href="#★★★★★★https://github.com/xx-net/xx-net/blob/master/code/default/download.md"></a>★★★★★★<a href="https://github.com/XX-net/XX-Net/blob/master/code/default/download.md">https://github.com/XX-net/XX-Net/blob/master/code/default/download.md</a></h1>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/1-1501151406190-L.jpg" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★★★https://github.com/getlantern/forum"><a name="★★★★★★★https://github.com/getlantern/forum" href="#★★★★★★★https://github.com/getlantern/forum"></a>★★★★★★★<a href="https://github.com/getlantern/forum">https://github.com/getlantern/forum</a></h1>
-<h2 id="https://getlantern.org/"><a name="https://getlantern.org/" href="#https://getlantern.org/"></a><a href="https://getlantern.org/">https://getlantern.org/</a></h2>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/624178.png" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★★★★https://psiphon.ca/"><a name="★★★★★★★★https://psiphon.ca/" href="#★★★★★★★★https://psiphon.ca/"></a>★★★★★★★★<a href="https://psiphon.ca/">https://psiphon.ca/</a></h1>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/maxresdefault.jpg" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★★★★★https://www.torproject.org/"><a name="★★★★★★★★★https://www.torproject.org/" href="#★★★★★★★★★https://www.torproject.org/"></a>★★★★★★★★★<a href="https://www.torproject.org/">https://www.torproject.org/</a></h1>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/tor.png" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="★★★★★★★★★★https://freebrowser.org/--自由浏览-是一个免费的安卓应用，可以提供不经审查的互联网接入。之所以免费提供是因为我们始终坚信不受审查的获取信息是每个人的天生的权利，并且也不应为此付出任何成本。"><a name="★★★★★★★★★★https://freebrowser.org/--自由浏览-是一个免费的安卓应用，可以提供不经审查的互联网接入。之所以免费提供是因为我们始终坚信不受审查的获取信息是每个人的天生的权利，并且也不应为此付出任何成本。" href="#★★★★★★★★★★https://freebrowser.org/--自由浏览-是一个免费的安卓应用，可以提供不经审查的互联网接入。之所以免费提供是因为我们始终坚信不受审查的获取信息是每个人的天生的权利，并且也不应为此付出任何成本。"></a>★★★★★★★★★★<a href="https://freebrowser.org/">https://freebrowser.org/</a> -自由浏览 是一个免费的安卓应用，可以提供不经审查的互联网接入。之所以免费提供是因为我们始终坚信不受审查的获取信息是每个人的天生的权利，并且也不应为此付出任何成本。</h1>
-<pre class="javascript hljs"><code class="js" data-origin="<pre><code class=&quot;js&quot;>&amp;lt;script async src=&quot;https://freebrowser.org/widgets/3.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
-&amp;lt;!-- FreeBrowser.org 120x600 --&amp;gt;
-&amp;lt;ins class=&quot;adsbyfreebrowser&quot; style=&quot;display:inline-block;width:120px;height:600px&quot;&amp;gt;&amp;lt;/ins&amp;gt;
-</code></pre>">&lt;script async src=<span class="hljs-string">"https://freebrowser.org/widgets/3.js"</span>&gt;<span class="xml"><span class="hljs-tag">&lt;/<span class="hljs-title">script</span>&gt;</span>
-<span class="hljs-comment">&lt;!-- FreeBrowser.org 120x600 --&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-title">ins</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"adsbyfreebrowser"</span> <span class="hljs-attribute">style</span>=<span class="hljs-value">"display:inline-block;width:120px;height:600px"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">ins</span>&gt;</span>
-</span></code></pre>
-<p><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/unnamed.png" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/a.PNG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/b.PNG" alt=""></p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="**翻墙软件**"><a name="**翻墙软件**" href="#**翻墙软件**"></a><strong>翻墙软件</strong></h1>
-<p>推荐！ 蓝灯（<mark>Lantern</mark>）最新版本下载，有桌面版和安卓版。本站有少量专业版激活码折扣转让，有意请邮件联系站长。速度更快，无限流量，不怕封锁。<br>推荐！Shadowsocks，一个用 Python 写的 socks 加密代理，技术宅的不二之选。最新详尽教程 另一教程 。推荐注册搭建所需要的VPS : DigitalOcean，请使用此链接 <a href="https://www.digitalocean.com/?refcode=ac2fc898c812">https://www.digitalocean.com/?refcode=ac2fc898c812</a> 注册，本网站可以收到一点推荐费用。搭建一个完全免费的Shadowsocks服务器 收集了一堆SS账号不知哪个管用，可以用 超级逗比Ping （作者： @toyo13140010096 ）<br>适合未越狱的iOS设备翻墙 LightSword ，作者：@UnsignedInt8 。  项目主页 简明安装教程  iOS客户端<br>翻墙大杀器（@chinashiyu）。 代码仓库  安装脚本  安卓客户端  iOS客户端 shadowrocket 。<br> VyprVPN ，有500M的免费流量，抗墙能力强，特别是安卓等移动设备。<br>萤火虫代理 开源翻墙工具，支持多平台。<br>赛风 （下载）由开放网络基金资助、多伦多大学的公民实验室（Citizen Lab）开发，安卓客户端持续可用，推荐。<br>自由浏览器，由Greatfire开发。（下载，链接在该页面最下方）自由微博（@FreeWeibo） 匿名和不受屏蔽的新浪微博搜索。<br>WoW Legacy 翻牆瀏覽器WowLegacy，基於Goagent重新開發，可一鍵翻牆。<br>动态网 （自由门下载 技术支持 有安卓版）调查显示最多人使用这个翻墙软件，建议和其他软件一并使用防止失效，注意更新。<br>无界浏览 （下载  有安卓版，在首页右上角） 目前仍有较多人使用的翻墙软件，建议和其他软件一并使用防止失效，注意更新。<br>Fqroute（@fqrouter）  简介 详细使用方法<br>最新免费翻墙软件墙内下载，支持各平台，更新维护 @suoluo （已经失效）。<br>GAE（Google App Engine） ，基本失效，不再推荐。包括：GoAgent ，是使用跨平台语言Python 开发的代理软件，利用GAE的服务器充當代理，幫助用戶瀏覽被封鎖的內容。（下载及教程  Gaeproxy论坛 教学视频）<br>VPN Gate  由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网。VPNgate的开发者引入了一项新技术：P2P中继。简单来说，如果墙内有人连上了墙外志愿者提供的VPNgate服务器，那么他就自动成为了服务器，其他墙内的人就可以通过连上他来翻墙。（安装 下载 使用经验 墙内下载： ed2k://|file|client.zip|39134940|0C08A57D45DF3CEBBCBF5F0DBC202C56|/  ）<br>建议关注：P2P翻墙项目 Uproxy 的进展，谷歌翻墙利器。<br>实用工具：测试网站是否被墙（websitepulse.com  greatfire.org）  iaskfq 翻墙客服中心（@iaskfq）<br>商业服务：<br>在淘宝搜索“美国 游戏加速器”之类的关键词，即可轻松找到提供翻墙工具的服务商，问清楚是否只能访问特定游戏或购物网站。<br>PUFF，商業版SSH和VPN計劃提供低至50元每年的翻墙方案（购买联系 @stonehoo email: jinwei1014@gmail.com）<br>Asrill，英文，提供全球VPN服务，有米之人不要错过。（@astrill）<br>==</p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="**翻墙后先要做的几件事情：**"><a name="**翻墙后先要做的几件事情：**" href="#**翻墙后先要做的几件事情：**"></a><strong>翻墙后先要做的几件事情：</strong></h1>
-<p>随时检查翻墙软件的更新情况，保证手头有两到三种可用的翻墙工具，发现失效马上检查更新版本。推荐！ 蓝灯（Lantern）最新版本下载，有桌面版和安卓版。本站有少量专业版激活码折扣转让，有意请邮件联系站长。速度更快，无限流量，不怕封锁。推荐 Shadowsocks，一个用 Python 写的 socks 加密代理，技术宅的不二之选。详尽教程 。推荐搭建所需要的VPS : DigitalOcean，注册请使用此链接 <a href="https://www.digitalocean.com/?refcode=ac2fc898c812">https://www.digitalocean.com/?refcode=ac2fc898c812</a> 注册，本网站可以收到一点推荐费用。 搭建一个完全免费的Shadowsocks服务器  广告：购买专业、高速的Shaodowsocks服务。<br>注册和使用谷歌（Google）的系列服务，至少包括邮箱、搜索和G+；在美国的可以考虑 Google 的 Project Fi 手机服务，很好用，无缝切换wifi和蜂窝手机网络，国际漫游不另收费。很适合经常呆在手机信号不好的地方甚至完全没信号的场所的使用者（如地下室）和经常出国的人。有兴趣可以注册一个： <a href="https://g.co/fi/r/RPK5D9">https://g.co/fi/r/RPK5D9</a> 。<br>注册和使用推特（Twitter），参考这个推荐中文信息列表，关注这200人，即可满足中文日常信息的大半需要。谢雪、中华合众国、Emma、艾曼妞、自由之春、环球焦点网、民主姑娘，六四XX周年、顾晓军、石三生等系列账号都是伪装成民运人士的受操纵的僵尸账号，专业抹黑攻击他人，请勿关注或转发。请关注本网站维护者 @wenyunchao 。本网站推荐的网站，在推特上大多有开设账号。<br>自由之家《中国媒体快报》简体中文版2016年12月号PDF版本下载，本期有莎拉∙库克撰写的“特写：北京2016年审查的重点”，不可错过。 请随手转发至同道群组 <a href="http://fhreports.net/">http://fhreports.net/</a> ，订阅请电邮：  cmb@freedomhouse.org 。在线浏览。<br>如果你觉得本网站对你有帮助，欢迎捐赠：Paypal: wenyunchao@gmail.com ，Bitcoin: 16SYFnHkAgs3L1QGAKeancENwKfXTH5xZy 。<br>赠品：给初级翻墙者立了一个书单： <a href="https://drive.google.com/folderview?id=0B8KDF8_HXe4IOWQzUUNRZTgwT2c&amp;usp=sharing">https://drive.google.com/folderview?id=0B8KDF8_HXe4IOWQzUUNRZTgwT2c&amp;usp=sharing</a>  基本上是历史书，以及我认为校订较好的《金瓶梅》。如果能把这些东西看完，相信中共灌输的狼奶能吐掉大半。没看过的也建议看看。<br>赠品：波黑围城战中的幸存者(A First-Hand Account of Long-Term SHTF Survival)  当中国大崩溃来临之际，个体在这种末世的混乱杀掠面前几乎无能为力，但总还是可以做些必要的准备，如远离城市，远离富人区，避居乡下，联络亲朋，储存硬通货和物资，详情可参考这篇文章。做足准备，生存的机会总会比别人大一些。</p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="**社交网站**"><a name="**社交网站**" href="#**社交网站**"></a><strong>社交网站</strong></h1>
-<p>推特（Twitter）  一、使用推特进行强交互式阅读，别人会把有价值的内容自动推到你眼前，节省筛选时间，信息获取效率更高。二、把自己的观点发布到推特上，可以随时接受他人的检验。三、推特涨粉终极法则：持续提供有价值的信息，包括事实或观点。请关注本网站维护者 @wenyunchao 。（注册访问指南 推荐关注的中文信息  推荐关注的英文信息 强制使用手机注册页面即可跳过验证步骤： <a href="https://mobile.twitter.com/signup">https://mobile.twitter.com/signup</a> 。<br>脸书（Facebook）  港台及其他地方很多社会运动都是通过脸书发起，可前去参观学习。如：占领中环  。注册指引<br>Google+  中国用户较多，移动端可直接连接，电脑端需要修改hosts文件。中文用户手册 推荐关注对象 Lantern群组<br>Twister  这是一个有可能打败审查的利器！推荐安装试用完全去中心化的微博（推特），不用翻墙，不需要服务器，没有审查，信息没人能删除。</p>
-<hr class="page">
-<hr class="section">
-<hr class="section">
-<hr class="section">
-<h1 id="推**荐服务**"><a name="推**荐服务**" href="#推**荐服务**"></a>推<strong>荐服务</strong></h1>
-<p>Google 搜索引擎，不二之选。建议尽量翻墙使用谷歌的服务，不解释。<br>Gmail 邮箱 安全常识1 安全常识2 启用两步验证 。<br>谷歌搜索（Google Search） 教程：从入门到精通4.0 ，能翻墙就让百度见鬼去吧。<br>谷歌云端硬盘（Google Drive） 共享与协作，可以快速提高工作效率，亦可方便发布文档到互联网。<br>Feedly，替代Google Reader的订阅器。 使用说明    部分新闻网站RSS<br>Dropbox 网盘<br>Blogger 及 WordPress 博客服务，本网站就是基于后者建的，绑了一个域名。<br>维基百科 。</p>
-<h1 id="新闻网站"><a name="新闻网站" href="#新闻网站"></a>新闻网站</h1>
-<p>纽约时报中文网（推特账号：@nytchinese） 网站向中国读者介绍《纽约时报》的优秀作品，包括新闻、评论、时尚和文化等内容。其新闻专业性毋庸置疑。2012年10月26日，因刊登揭露温家宝家属累积27亿美元巨额财富的文章《总理家人的隐秘财富》后被墙。推荐：<br>万达帝国王健林：游刃于商业与权贵之间 寻找万达帝国背后的神秘股东 披露习近平家族与温家宝家族与巨贾之间的利益关系；<br>阿里巴巴上市背后的“红二代”赢家 江泽民、王震的孙子，温家宝、贺国强、刘云山、陈云的儿子…… 阿里巴巴声明证实报道 。<br>张洁平关于香港“占领中环”运动文章： 摊牌（一）：一国两制与民主香港 摊牌（二）：通向普选的巴别塔 。<br>吴伟：80年代政改系列谈<br>美国之音中文网 （@voachinese）美国之音是美国政府对外设立的国有宣传机构。内容较全面，中国新闻多集中于重大事件政策及解读、知名群体或人士的人权迫害等领域。（@voachina） 美国之音中文争鸣论坛，发布美国之音评论类节目精彩内容及推荐当下具代表性的时政经济评论作品。<br>朝日新闻中文网 刊载每日于日本国内发行的《朝日新闻》、朝日新闻官方网站以及应用程序“朝日新闻DIGITAL”内新闻报道的中译版本。<br>自由港（ @iyouport ）侧重传播关于民主自由的新闻与评论，通过互助共享的方式，实现优质精选的信息吞吐，并以此带来价值。<br>法广中文网（@RFI_Cn） 报道中国新闻的记者有多位是资深人士，常有靠谱独家报道。<br>BBC中文网（@bbcchinese） 由BBC中文部運作的一個中文新聞時事網站，面向全球华人并24 小时更新的新闻资讯和时事评论，但自2016年起已经不大涉及报道中国时政及人权方面的新闻。自1998年10月起即被墙，2008年因北京举办奥运会曾一度解封。<br>路透中文网（@ReutersCN 非官方） 路透中文网为中文读者提供世界热点地区经济新闻，突发事件报道，宏观经济报道，深度分析，观点评论和生活时尚资讯。2015年3月20日重新被墙。近年来涉及中国的人权报道已经从该网站上消失。<br>端传媒（@initiumnews ），香港新创办的新锐媒体。<br>自由微博（@FreeWeibo） 匿名和不受屏蔽的新浪微博搜索，由Greatfire开发维护。同时发布自由浏览器（下载，链接在该页面右侧）。<br>GFW BLOG（功夫网与翻墙）（@chinagfw） 提供网络安全、翻墙动态、翻墙观察及翻墙资源。</p>
-<h1 id="从2015年3月，俺开始用-bt-sync-提供博客上【全部内容】的离线浏览，而且是【免翻墙】哦。你可以通过如下-bt-sync-密钥，进行自动同步。"><a name="从2015年3月，俺开始用-bt-sync-提供博客上【全部内容】的离线浏览，而且是【免翻墙】哦。你可以通过如下-bt-sync-密钥，进行自动同步。" href="#从2015年3月，俺开始用-bt-sync-提供博客上【全部内容】的离线浏览，而且是【免翻墙】哦。你可以通过如下-bt-sync-密钥，进行自动同步。"></a>从2015年3月，俺开始用 BT Sync 提供博客上【全部内容】的离线浏览，而且是【免翻墙】哦。你可以通过如下 BT Sync 密钥，进行自动同步。</h1>
-<p>B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V</p>
-<p>（BT Sync 上的内容，大约1到2星期更新一次）</p>
-<h1 id="https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes"><a name="https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes" href="#https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes"></a><a href="https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes">https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes</a></h1>
-<h2 id="中国数字时代（@cdtchinese）-加州大学柏克莱分校关于互联网自由的研究项目，是结合网络2.0-最新技术和网民群体智慧的新闻聚合网站。-推荐“真理部指令”、“敏感词库”及电邮订阅。"><a name="中国数字时代（@cdtchinese）-加州大学柏克莱分校关于互联网自由的研究项目，是结合网络2.0-最新技术和网民群体智慧的新闻聚合网站。-推荐“真理部指令”、“敏感词库”及电邮订阅。" href="#中国数字时代（@cdtchinese）-加州大学柏克莱分校关于互联网自由的研究项目，是结合网络2.0-最新技术和网民群体智慧的新闻聚合网站。-推荐“真理部指令”、“敏感词库”及电邮订阅。"></a>中国数字时代（@CDTChinese） 加州大学柏克莱分校关于互联网自由的研究项目，是结合网络2.0 最新技术和网民群体智慧的新闻聚合网站。 推荐“真理部指令”、“敏感词库”及电邮订阅。</h2>
-<h3 id="全网查删澎湃新闻《北大研究团队:31城因pm2.5多死26万人-石家庄最多》一文。-【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国家级的国务院新闻办公室，中央文明办，国家广播电影电视总局，出版总署，文化部等一系列言论出版审查机构的总称。】-附：《北大研究团队:31城因pm2.5多死26万人石家庄最多》（澎拜新闻）-2月4日，中国首个评估pm2.5长期暴露对公众健康所产生影响的研究报告出炉。"><a name="全网查删澎湃新闻《北大研究团队:31城因pm2.5多死26万人-石家庄最多》一文。-【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国家级的国务院新闻办公室，中央文明办，国家广播电影电视总局，出版总署，文化部等一系列言论出版审查机构的总称。】-附：《北大研究团队:31城因pm2.5多死26万人石家庄最多》（澎拜新闻）-2月4日，中国首个评估pm2.5长期暴露对公众健康所产生影响的研究报告出炉。" href="#全网查删澎湃新闻《北大研究团队:31城因pm2.5多死26万人-石家庄最多》一文。-【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国家级的国务院新闻办公室，中央文明办，国家广播电影电视总局，出版总署，文化部等一系列言论出版审查机构的总称。】-附：《北大研究团队:31城因pm2.5多死26万人石家庄最多》（澎拜新闻）-2月4日，中国首个评估pm2.5长期暴露对公众健康所产生影响的研究报告出炉。"></a>全网查删澎湃新闻《北大研究团队:31城因PM2.5多死26万人 石家庄最多》一文。 【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国家级的国务院新闻办公室，中央文明办，国家广播电影电视总局，出版总署，文化部等一系列言论出版审查机构的总称。】 附：《北大研究团队:31城因PM2.5多死26万人石家庄最多》（澎拜新闻） 2月4日，中国首个评估PM2.5长期暴露对公众健康所产生影响的研究报告出炉。</h3>
-<h2 id="泡泡-|-未经审查的互联网信息-亚马逊免墙镜像"><a name="泡泡-|-未经审查的互联网信息-亚马逊免墙镜像" href="#泡泡-|-未经审查的互联网信息-亚马逊免墙镜像"></a>泡泡 | 未经审查的互联网信息 亚马逊免墙镜像</h2>
-<h2 id="通过中国数字时代(china-digital-times,-cdt)-的免翻墙浏览器扩展可以在不翻墙的情况下阅读中国数字时代网站的所有内容，该插件支持谷歌浏览器与火狐浏览器，本文介绍在谷歌浏览器下安装及使用的方法。"><a name="通过中国数字时代(china-digital-times,-cdt)-的免翻墙浏览器扩展可以在不翻墙的情况下阅读中国数字时代网站的所有内容，该插件支持谷歌浏览器与火狐浏览器，本文介绍在谷歌浏览器下安装及使用的方法。" href="#通过中国数字时代(china-digital-times,-cdt)-的免翻墙浏览器扩展可以在不翻墙的情况下阅读中国数字时代网站的所有内容，该插件支持谷歌浏览器与火狐浏览器，本文介绍在谷歌浏览器下安装及使用的方法。"></a>通过中国数字时代(China Digital Times, CDT) 的免翻墙浏览器扩展可以在不翻墙的情况下阅读中国数字时代网站的所有内容，该插件支持谷歌浏览器与火狐浏览器，本文介绍在谷歌浏览器下安装及使用的方法。</h2>
-<p>此插件来自中国数字时代免翻墙插件项目，项目地址：<a href="https://github.com/cdtmirrors/cdt.unblocked">https://github.com/cdtmirrors/cdt.unblocked</a></p>
-<p>有两种方式安装安装，一种是访问谷歌应用店安装，一种是下载插件安装，下面分别介绍这两种方式，并在第三部分介绍基本的管理方式：</p>
-<p>一、Chrome 网上应用店的安装介绍</p>
-<p>下面介绍通过 Chrome网上应用店安装的步骤，也包括安装后如何隐藏与卸载的方式，需要在翻墙情况下操作，安装完成后，可以不翻墙使用。<br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3536.PNG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3802.JPG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/psb.jpg" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/IMG_3803.JPG" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/rollingstones.jpg" alt=""><br><img src="file:///home/linus_l/%E6%A1%8C%E9%9D%A2/Instagram/matrix.png" alt=""></p>
-</center>
 
-<footer style="position:fixed; font-size:.8em; text-align:right; bottom:0px; margin-left:-25px; height:20px; width:100%;">generated by <a href="http://pad.haroopress.com" target="_blank">haroopad</a></footer>
-</body>
-</html>
+```
+![](Instagram/8436963 .jpg)
+###breakwa11破娃酱
+![](Instagram/w8B4bWe.png)
+![](Instagram/ShadowsocksR.png)
+###ShadowSocksR原理
+
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★★https://github.com/XX-net/XX-Net/blob/master/code/default/download.md
+![](Instagram/1-1501151406190-L.jpg)
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★★★https://github.com/getlantern/forum
+##https://getlantern.org/
+![](Instagram/624178.png)
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★★★★https://psiphon.ca/
+![](Instagram/maxresdefault.jpg)
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★★★★★https://www.torproject.org/
+![](Instagram/tor.png)
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#★★★★★★★★★★https://freebrowser.org/ -自由浏览 是一个免费的安卓应用，可以提供不经审查的互联网接入。之所以免费提供是因为我们始终坚信不受审查的获取信息是每个人的天生的权利，并且也不应为此付出任何成本。
+```js
+<script async src="https://freebrowser.org/widgets/3.js"></script>
+<!-- FreeBrowser.org 120x600 -->
+<ins class="adsbyfreebrowser" style="display:inline-block;width:120px;height:600px"></ins>
+
+```
+![](Instagram/unnamed.png)
+![](Instagram/a.PNG)
+![](Instagram/b.PNG)
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#**翻墙软件**
+推荐！ 蓝灯（==Lantern==）最新版本下载，有桌面版和安卓版。本站有少量专业版激活码折扣转让，有意请邮件联系站长。速度更快，无限流量，不怕封锁。
+推荐！Shadowsocks，一个用 Python 写的 socks 加密代理，技术宅的不二之选。最新详尽教程 另一教程 。推荐注册搭建所需要的VPS : DigitalOcean，请使用此链接 https://www.digitalocean.com/?refcode=ac2fc898c812 注册，本网站可以收到一点推荐费用。搭建一个完全免费的Shadowsocks服务器 收集了一堆SS账号不知哪个管用，可以用 超级逗比Ping （作者： @toyo13140010096 ）
+适合未越狱的iOS设备翻墙 LightSword ，作者：@UnsignedInt8 。  项目主页 简明安装教程  iOS客户端
+翻墙大杀器（@chinashiyu）。 代码仓库  安装脚本  安卓客户端  iOS客户端 shadowrocket 。
+ VyprVPN ，有500M的免费流量，抗墙能力强，特别是安卓等移动设备。
+萤火虫代理 开源翻墙工具，支持多平台。
+赛风 （下载）由开放网络基金资助、多伦多大学的公民实验室（Citizen Lab）开发，安卓客户端持续可用，推荐。
+自由浏览器，由Greatfire开发。（下载，链接在该页面最下方）自由微博（@FreeWeibo） 匿名和不受屏蔽的新浪微博搜索。
+WoW Legacy 翻牆瀏覽器WowLegacy，基於Goagent重新開發，可一鍵翻牆。
+动态网 （自由门下载 技术支持 有安卓版）调查显示最多人使用这个翻墙软件，建议和其他软件一并使用防止失效，注意更新。
+无界浏览 （下载  有安卓版，在首页右上角） 目前仍有较多人使用的翻墙软件，建议和其他软件一并使用防止失效，注意更新。
+Fqroute（@fqrouter）  简介 详细使用方法
+最新免费翻墙软件墙内下载，支持各平台，更新维护 @suoluo （已经失效）。
+GAE（Google App Engine） ，基本失效，不再推荐。包括：GoAgent ，是使用跨平台语言Python 开发的代理软件，利用GAE的服务器充當代理，幫助用戶瀏覽被封鎖的內容。（下载及教程  Gaeproxy论坛 教学视频）
+VPN Gate  由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网。VPNgate的开发者引入了一项新技术：P2P中继。简单来说，如果墙内有人连上了墙外志愿者提供的VPNgate服务器，那么他就自动成为了服务器，其他墙内的人就可以通过连上他来翻墙。（安装 下载 使用经验 墙内下载： ed2k://|file|client.zip|39134940|0C08A57D45DF3CEBBCBF5F0DBC202C56|/  ）
+建议关注：P2P翻墙项目 Uproxy 的进展，谷歌翻墙利器。
+实用工具：测试网站是否被墙（websitepulse.com  greatfire.org）  iaskfq 翻墙客服中心（@iaskfq）
+商业服务：
+在淘宝搜索“美国 游戏加速器”之类的关键词，即可轻松找到提供翻墙工具的服务商，问清楚是否只能访问特定游戏或购物网站。
+PUFF，商業版SSH和VPN計劃提供低至50元每年的翻墙方案（购买联系 @stonehoo email: jinwei1014@gmail.com）
+Asrill，英文，提供全球VPN服务，有米之人不要错过。（@astrill）
+==
+
+
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+
+#**翻墙后先要做的几件事情：**
+
+随时检查翻墙软件的更新情况，保证手头有两到三种可用的翻墙工具，发现失效马上检查更新版本。推荐！ 蓝灯（Lantern）最新版本下载，有桌面版和安卓版。本站有少量专业版激活码折扣转让，有意请邮件联系站长。速度更快，无限流量，不怕封锁。推荐 Shadowsocks，一个用 Python 写的 socks 加密代理，技术宅的不二之选。详尽教程 。推荐搭建所需要的VPS : DigitalOcean，注册请使用此链接 https://www.digitalocean.com/?refcode=ac2fc898c812 注册，本网站可以收到一点推荐费用。 搭建一个完全免费的Shadowsocks服务器  广告：购买专业、高速的Shaodowsocks服务。
+注册和使用谷歌（Google）的系列服务，至少包括邮箱、搜索和G+；在美国的可以考虑 Google 的 Project Fi 手机服务，很好用，无缝切换wifi和蜂窝手机网络，国际漫游不另收费。很适合经常呆在手机信号不好的地方甚至完全没信号的场所的使用者（如地下室）和经常出国的人。有兴趣可以注册一个： https://g.co/fi/r/RPK5D9 。
+注册和使用推特（Twitter），参考这个推荐中文信息列表，关注这200人，即可满足中文日常信息的大半需要。谢雪、中华合众国、Emma、艾曼妞、自由之春、环球焦点网、民主姑娘，六四XX周年、顾晓军、石三生等系列账号都是伪装成民运人士的受操纵的僵尸账号，专业抹黑攻击他人，请勿关注或转发。请关注本网站维护者 @wenyunchao 。本网站推荐的网站，在推特上大多有开设账号。
+自由之家《中国媒体快报》简体中文版2016年12月号PDF版本下载，本期有莎拉∙库克撰写的“特写：北京2016年审查的重点”，不可错过。 请随手转发至同道群组 http://fhreports.net/ ，订阅请电邮：  cmb@freedomhouse.org 。在线浏览。
+如果你觉得本网站对你有帮助，欢迎捐赠：Paypal: wenyunchao@gmail.com ，Bitcoin: 16SYFnHkAgs3L1QGAKeancENwKfXTH5xZy 。
+赠品：给初级翻墙者立了一个书单： https://drive.google.com/folderview?id=0B8KDF8_HXe4IOWQzUUNRZTgwT2c&usp=sharing  基本上是历史书，以及我认为校订较好的《金瓶梅》。如果能把这些东西看完，相信中共灌输的狼奶能吐掉大半。没看过的也建议看看。
+赠品：波黑围城战中的幸存者(A First-Hand Account of Long-Term SHTF Survival)  当中国大崩溃来临之际，个体在这种末世的混乱杀掠面前几乎无能为力，但总还是可以做些必要的准备，如远离城市，远离富人区，避居乡下，联络亲朋，储存硬通货和物资，详情可参考这篇文章。做足准备，生存的机会总会比别人大一些。
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+# **社交网站**
+
+推特（Twitter）  一、使用推特进行强交互式阅读，别人会把有价值的内容自动推到你眼前，节省筛选时间，信息获取效率更高。二、把自己的观点发布到推特上，可以随时接受他人的检验。三、推特涨粉终极法则：持续提供有价值的信息，包括事实或观点。请关注本网站维护者 @wenyunchao 。（注册访问指南 推荐关注的中文信息  推荐关注的英文信息 强制使用手机注册页面即可跳过验证步骤： https://mobile.twitter.com/signup 。
+脸书（Facebook）  港台及其他地方很多社会运动都是通过脸书发起，可前去参观学习。如：占领中环  。注册指引
+Google+  中国用户较多，移动端可直接连接，电脑端需要修改hosts文件。中文用户手册 推荐关注对象 Lantern群组
+Twister  这是一个有可能打败审查的利器！推荐安装试用完全去中心化的微博（推特），不用翻墙，不需要服务器，没有审查，信息没人能删除。
+
+* * *
+
+- - -
+
+- - -
+
+- - -
+# 推**荐服务**
+
+Google 搜索引擎，不二之选。建议尽量翻墙使用谷歌的服务，不解释。
+Gmail 邮箱 安全常识1 安全常识2 启用两步验证 。
+谷歌搜索（Google Search） 教程：从入门到精通4.0 ，能翻墙就让百度见鬼去吧。
+谷歌云端硬盘（Google Drive） 共享与协作，可以快速提高工作效率，亦可方便发布文档到互联网。
+Feedly，替代Google Reader的订阅器。 使用说明    部分新闻网站RSS
+Dropbox 网盘
+Blogger 及 WordPress 博客服务，本网站就是基于后者建的，绑了一个域名。
+维基百科 。
+#新闻网站
+
+纽约时报中文网（推特账号：@nytchinese） 网站向中国读者介绍《纽约时报》的优秀作品，包括新闻、评论、时尚和文化等内容。其新闻专业性毋庸置疑。2012年10月26日，因刊登揭露温家宝家属累积27亿美元巨额财富的文章《总理家人的隐秘财富》后被墙。推荐：
+万达帝国王健林：游刃于商业与权贵之间 寻找万达帝国背后的神秘股东 披露习近平家族与温家宝家族与巨贾之间的利益关系；
+阿里巴巴上市背后的“红二代”赢家 江泽民、王震的孙子，温家宝、贺国强、刘云山、陈云的儿子…… 阿里巴巴声明证实报道 。
+张洁平关于香港“占领中环”运动文章： 摊牌（一）：一国两制与民主香港 摊牌（二）：通向普选的巴别塔 。
+吴伟：80年代政改系列谈
+美国之音中文网 （@voachinese）美国之音是美国政府对外设立的国有宣传机构。内容较全面，中国新闻多集中于重大事件政策及解读、知名群体或人士的人权迫害等领域。（@voachina） 美国之音中文争鸣论坛，发布美国之音评论类节目精彩内容及推荐当下具代表性的时政经济评论作品。
+朝日新闻中文网 刊载每日于日本国内发行的《朝日新闻》、朝日新闻官方网站以及应用程序“朝日新闻DIGITAL”内新闻报道的中译版本。
+自由港（ @iyouport ）侧重传播关于民主自由的新闻与评论，通过互助共享的方式，实现优质精选的信息吞吐，并以此带来价值。
+法广中文网（@RFI_Cn） 报道中国新闻的记者有多位是资深人士，常有靠谱独家报道。
+BBC中文网（@bbcchinese） 由BBC中文部運作的一個中文新聞時事網站，面向全球华人并24 小时更新的新闻资讯和时事评论，但自2016年起已经不大涉及报道中国时政及人权方面的新闻。自1998年10月起即被墙，2008年因北京举办奥运会曾一度解封。
+路透中文网（@ReutersCN 非官方） 路透中文网为中文读者提供世界热点地区经济新闻，突发事件报道，宏观经济报道，深度分析，观点评论和生活时尚资讯。2015年3月20日重新被墙。近年来涉及中国的人权报道已经从该网站上消失。
+端传媒（@initiumnews ），香港新创办的新锐媒体。
+自由微博（@FreeWeibo） 匿名和不受屏蔽的新浪微博搜索，由Greatfire开发维护。同时发布自由浏览器（下载，链接在该页面右侧）。
+GFW BLOG（功夫网与翻墙）（@chinagfw） 提供网络安全、翻墙动态、翻墙观察及翻墙资源。
+#从2015年3月，俺开始用 BT Sync 提供博客上【全部内容】的离线浏览，而且是【免翻墙】哦。你可以通过如下 BT Sync 密钥，进行自动同步。
+
+B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
+
+（BT Sync 上的内容，大约1到2星期更新一次）
+#https://ajax.aspnetcdn.com/chinese/#chinadigitaltimes
+##中国数字时代（@CDTChinese） 加州大学柏克莱分校关于互联网自由的研究项目，是结合网络2.0 最新技术和网民群体智慧的新闻聚合网站。 推荐“真理部指令”、“敏感词库”及电邮订阅。
+###全网查删澎湃新闻《北大研究团队:31城因PM2.5多死26万人 石家庄最多》一文。 【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国家级的国务院新闻办公室，中央文明办，国家广播电影电视总局，出版总署，文化部等一系列言论出版审查机构的总称。】 附：《北大研究团队:31城因PM2.5多死26万人石家庄最多》（澎拜新闻） 2月4日，中国首个评估PM2.5长期暴露对公众健康所产生影响的研究报告出炉。
+##泡泡 | 未经审查的互联网信息 亚马逊免墙镜像
+##通过中国数字时代(China Digital Times, CDT) 的免翻墙浏览器扩展可以在不翻墙的情况下阅读中国数字时代网站的所有内容，该插件支持谷歌浏览器与火狐浏览器，本文介绍在谷歌浏览器下安装及使用的方法。
+
+此插件来自中国数字时代免翻墙插件项目，项目地址：https://github.com/cdtmirrors/cdt.unblocked
+
+有两种方式安装安装，一种是访问谷歌应用店安装，一种是下载插件安装，下面分别介绍这两种方式，并在第三部分介绍基本的管理方式：
+
+一、Chrome 网上应用店的安装介绍
+
+下面介绍通过 Chrome网上应用店安装的步骤，也包括安装后如何隐藏与卸载的方式，需要在翻墙情况下操作，安装完成后，可以不翻墙使用。
+![](Instagram/IMG_3536.PNG)
+![](Instagram/IMG_3802.JPG)
+![](Instagram/psb.jpg)
+![](Instagram/IMG_3803.JPG)
+![](Instagram/rollingstones.jpg)
+![](Instagram/matrix.png)
