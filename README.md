@@ -1,6 +1,6 @@
 # xxoo
 A fast tunnel proxy that helps you __bypass__ Great Firewalls
-<center>
+
 ![](Instagram/BT.PNG)
 ![](Instagram/logo.png)
 ![](Instagram/bt-wiki-main.png)
